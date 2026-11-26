@@ -1,0 +1,1201 @@
+VendorID,VendorName,Category,Location,Style,Price,PriceMin,PriceMax,Rating,ReviewCount,Capacity,ServiceAreas,AvailabilityStatus,PriceVerified,AvailabilityVerified
+1,Thiruvananthapuram Minimalist Catering 1,Catering,Thiruvananthapuram,Minimalist,183351,165015,201686,4.2,212,,Thiruvananthapuram,Unverified,False,False
+2,Pathanamthitta Traditional Makeup 2,Makeup,Pathanamthitta,Traditional,19500,17550,21450,4.4,57,,Pathanamthitta,Unverified,False,False
+3,Kolkata Traditional Venue 3,Venue,Kolkata,Traditional,148219,133397,163040,3.6,242,483.0,Kolkata,Unverified,False,False
+4,Coimbatore Traditional Decoration 4,Decoration,Coimbatore,Traditional,53210,47889,58531,4.4,445,,"Coimbatore, Palakkad",Unverified,False,False
+5,Delhi Luxury Catering 5,Catering,Delhi,Luxury,183721,165348,202093,4.3,370,,Delhi,Unverified,False,False
+6,Kannur Modern Catering 6,Catering,Kannur,Modern,128044,115239,140848,3.5,36,,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+7,Bengaluru Traditional Venue 7,Venue,Bengaluru,Traditional,155182,139663,170700,3.7,81,356.0,Bengaluru,Unverified,False,False
+8,Kasaragod Modern Venue 8,Venue,Kasaragod,Modern,248297,223467,273126,4.1,204,260.0,Kasaragod,Unverified,False,False
+9,Thrissur Modern Music 9,Music,Thrissur,Modern,56314,50682,61945,4.1,233,,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+10,Kozhikode Traditional Music 10,Music,Kozhikode,Traditional,17272,15544,18999,4.2,98,,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+11,Kollam Luxury Makeup 11,Makeup,Kollam,Luxury,12253,11027,13478,4.8,242,,Kollam,Unverified,False,False
+12,Alappuzha Minimalist Decoration 12,Decoration,Alappuzha,Minimalist,145294,130764,159823,4.3,477,,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+13,Hyderabad Luxury Music 13,Music,Hyderabad,Luxury,26888,24199,29576,3.6,274,,Hyderabad,Unverified,False,False
+14,Kottayam Minimalist Decoration 14,Decoration,Kottayam,Minimalist,127323,114590,140055,4.0,90,,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+15,Hyderabad Modern Makeup 15,Makeup,Hyderabad,Modern,31823,28640,35005,3.5,71,,Hyderabad,Unverified,False,False
+16,Wayanad Minimalist Makeup 16,Makeup,Wayanad,Minimalist,26095,23485,28704,3.5,15,,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+17,Mumbai Traditional Catering 17,Catering,Mumbai,Traditional,37701,33930,41471,3.5,263,,Mumbai,Unverified,False,False
+18,Kollam Minimalist Photography 18,Photography,Kollam,Minimalist,49135,44221,54048,4.3,134,,Kollam,Unverified,False,False
+19,Kannur Traditional Decoration 19,Decoration,Kannur,Traditional,26456,23810,29101,3.5,206,,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+20,Delhi Minimalist Decoration 20,Decoration,Delhi,Minimalist,10877,9789,11964,3.3,245,,Delhi,Unverified,False,False
+21,Kannur Minimalist Catering 21,Catering,Kannur,Minimalist,115844,104259,127428,3.9,308,,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+22,Mysuru Modern Makeup 22,Makeup,Mysuru,Modern,3579,3221,3936,4.4,343,,Mysuru,Unverified,False,False
+23,Kottayam Modern Venue 23,Venue,Kottayam,Modern,113411,102069,124752,4.7,11,224.0,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+24,Thiruvananthapuram Minimalist Music 24,Music,Thiruvananthapuram,Minimalist,43785,39406,48163,4.4,200,,Thiruvananthapuram,Unverified,False,False
+25,Kollam Modern Makeup 25,Makeup,Kollam,Modern,30262,27235,33288,3.3,197,,Kollam,Unverified,False,False
+26,Thekkady Modern Makeup 26,Makeup,Thekkady,Modern,31957,28761,35152,4.1,49,,Thekkady,Unverified,False,False
+27,Kozhikode Traditional Decoration 27,Decoration,Kozhikode,Traditional,31150,28035,34265,4.6,180,,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+28,Malappuram Traditional Catering 28,Catering,Malappuram,Traditional,61702,55531,67872,4.7,15,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+29,Coimbatore Modern Photography 29,Photography,Coimbatore,Modern,100345,90310,110379,4.7,443,,"Coimbatore, Palakkad",Unverified,False,False
+30,Malappuram Modern Catering 30,Catering,Malappuram,Modern,186800,168120,205480,3.1,356,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+31,Thrissur Modern Decoration 31,Decoration,Thrissur,Modern,117941,106146,129735,4.5,242,,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+32,Chennai Minimalist Music 32,Music,Chennai,Minimalist,23888,21499,26276,3.0,137,,Chennai,Unverified,False,False
+33,Malappuram Modern Decoration 33,Decoration,Malappuram,Modern,115128,103615,126640,4.3,84,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+34,Munnar Luxury Makeup 34,Makeup,Munnar,Luxury,14246,12821,15670,3.8,198,,Munnar,Unverified,False,False
+35,Kolkata Modern Photography 35,Photography,Kolkata,Modern,10169,9152,11185,4.6,150,,Kolkata,Unverified,False,False
+36,Bengaluru Luxury Catering 36,Catering,Bengaluru,Luxury,141195,127075,155314,4.0,293,,Bengaluru,Unverified,False,False
+37,Kolkata Traditional Photography 37,Photography,Kolkata,Traditional,75490,67941,83039,4.8,475,,Kolkata,Unverified,False,False
+38,Bengaluru Traditional Venue 38,Venue,Bengaluru,Traditional,170868,153781,187954,4.4,257,841.0,Bengaluru,Unverified,False,False
+39,Kolkata Modern Makeup 39,Makeup,Kolkata,Modern,6356,5720,6991,4.5,13,,Kolkata,Unverified,False,False
+40,Kozhikode Traditional Decoration 40,Decoration,Kozhikode,Traditional,12094,10884,13303,3.4,107,,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+41,Kottayam Modern Decoration 41,Decoration,Kottayam,Modern,22185,19966,24403,4.1,201,,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+42,Delhi Modern Makeup 42,Makeup,Delhi,Modern,12764,11487,14040,4.6,413,,Delhi,Unverified,False,False
+43,Kannur Luxury Catering 43,Catering,Kannur,Luxury,130091,117081,143100,4.2,347,,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+44,Kozhikode Traditional Makeup 44,Makeup,Kozhikode,Traditional,27093,24383,29802,4.4,133,,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+45,Thekkady Minimalist Photography 45,Photography,Thekkady,Minimalist,36419,32777,40060,4.3,455,,Thekkady,Unverified,False,False
+46,Kochi Traditional Catering 46,Catering,Kochi,Traditional,37463,33716,41209,3.5,484,,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+47,Chennai Luxury Catering 47,Catering,Chennai,Luxury,176316,158684,193947,4.3,194,,Chennai,Unverified,False,False
+48,Palakkad Modern Decoration 48,Decoration,Palakkad,Modern,46652,41986,51317,4.0,196,,"Palakkad, Coimbatore",Unverified,False,False
+49,Chennai Traditional Catering 49,Catering,Chennai,Traditional,134771,121293,148248,4.2,13,,Chennai,Unverified,False,False
+50,Mysuru Luxury Makeup 50,Makeup,Mysuru,Luxury,3372,3034,3709,4.8,220,,Mysuru,Unverified,False,False
+51,Kochi Minimalist Music 51,Music,Kochi,Minimalist,54968,49471,60464,3.0,29,,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+52,Malappuram Minimalist Music 52,Music,Malappuram,Minimalist,39100,35190,43010,4.7,218,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+53,Mysuru Traditional Makeup 53,Makeup,Mysuru,Traditional,6525,5872,7177,4.1,443,,Mysuru,Unverified,False,False
+54,Mysuru Modern Catering 54,Catering,Mysuru,Modern,108668,97801,119534,4.6,351,,Mysuru,Unverified,False,False
+55,Thrissur Modern Decoration 55,Decoration,Thrissur,Modern,64765,58288,71241,3.4,24,,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+56,Thiruvananthapuram Luxury Makeup 56,Makeup,Thiruvananthapuram,Luxury,4693,4223,5162,4.3,4,,Thiruvananthapuram,Unverified,False,False
+57,Kottayam Luxury Decoration 57,Decoration,Kottayam,Luxury,24838,22354,27321,4.3,238,,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+58,Kochi Luxury Makeup 58,Makeup,Kochi,Luxury,34158,30742,37573,3.7,212,,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+59,Hyderabad Traditional Photography 59,Photography,Hyderabad,Traditional,65421,58878,71963,3.6,461,,Hyderabad,Unverified,False,False
+60,Kozhikode Traditional Venue 60,Venue,Kozhikode,Traditional,246939,222245,271632,4.8,412,394.0,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+61,Mumbai Traditional Photography 61,Photography,Mumbai,Traditional,72469,65222,79715,3.4,119,,Mumbai,Unverified,False,False
+62,Kannur Traditional Venue 62,Venue,Kannur,Traditional,129623,116660,142585,4.2,96,1004.0,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+63,Wayanad Luxury Catering 63,Catering,Wayanad,Luxury,91180,82062,100298,3.3,271,,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+64,Thiruvananthapuram Traditional Venue 64,Venue,Thiruvananthapuram,Traditional,184622,166159,203084,3.0,88,567.0,Thiruvananthapuram,Unverified,False,False
+65,Bengaluru Minimalist Photography 65,Photography,Bengaluru,Minimalist,59081,53172,64989,3.6,278,,Bengaluru,Unverified,False,False
+66,Mumbai Minimalist Decoration 66,Decoration,Mumbai,Minimalist,45256,40730,49781,3.9,278,,Mumbai,Unverified,False,False
+67,Mysuru Luxury Photography 67,Photography,Mysuru,Luxury,115700,104130,127270,3.1,247,,Mysuru,Unverified,False,False
+68,Kozhikode Modern Photography 68,Photography,Kozhikode,Modern,23986,21587,26384,4.2,286,,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+69,Kollam Minimalist Photography 69,Photography,Kollam,Minimalist,42195,37975,46414,3.6,424,,Kollam,Unverified,False,False
+70,Thrissur Luxury Venue 70,Venue,Thrissur,Luxury,244128,219715,268540,4.3,413,350.0,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+71,Pathanamthitta Luxury Photography 71,Photography,Pathanamthitta,Luxury,12663,11396,13929,3.2,184,,Pathanamthitta,Unverified,False,False
+72,Kannur Minimalist Venue 72,Venue,Kannur,Minimalist,151110,135999,166221,5.0,79,778.0,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+73,Thekkady Minimalist Photography 73,Photography,Thekkady,Minimalist,94044,84639,103448,4.9,39,,Thekkady,Unverified,False,False
+74,Delhi Luxury Makeup 74,Makeup,Delhi,Luxury,18311,16479,20142,3.4,186,,Delhi,Unverified,False,False
+75,Bengaluru Luxury Makeup 75,Makeup,Bengaluru,Luxury,14398,12958,15837,4.1,269,,Bengaluru,Unverified,False,False
+76,Hyderabad Modern Music 76,Music,Hyderabad,Modern,12900,11610,14190,3.8,242,,Hyderabad,Unverified,False,False
+77,Kolkata Modern Music 77,Music,Kolkata,Modern,48925,44032,53817,3.3,437,,Kolkata,Unverified,False,False
+78,Kottayam Minimalist Photography 78,Photography,Kottayam,Minimalist,90061,81054,99067,4.4,264,,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+79,Thekkady Modern Makeup 79,Makeup,Thekkady,Modern,25619,23057,28180,3.9,245,,Thekkady,Unverified,False,False
+80,Munnar Modern Venue 80,Venue,Munnar,Modern,215468,193921,237014,4.7,321,146.0,Munnar,Unverified,False,False
+81,Wayanad Minimalist Catering 81,Catering,Wayanad,Minimalist,87957,79161,96752,3.2,1,,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+82,Kasaragod Traditional Catering 82,Catering,Kasaragod,Traditional,58042,52237,63846,3.8,27,,Kasaragod,Unverified,False,False
+83,Coimbatore Luxury Photography 83,Photography,Coimbatore,Luxury,86474,77826,95121,4.7,165,,"Coimbatore, Palakkad",Unverified,False,False
+84,Kannur Minimalist Catering 84,Catering,Kannur,Minimalist,60248,54223,66272,3.1,386,,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+85,Munnar Traditional Catering 85,Catering,Munnar,Traditional,162500,146250,178750,4.4,276,,Munnar,Unverified,False,False
+86,Coimbatore Minimalist Decoration 86,Decoration,Coimbatore,Minimalist,63546,57191,69900,3.3,338,,"Coimbatore, Palakkad",Unverified,False,False
+87,Thrissur Modern Photography 87,Photography,Thrissur,Modern,77737,69963,85510,4.5,342,,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+88,Munnar Minimalist Makeup 88,Makeup,Munnar,Minimalist,7286,6557,8014,4.7,68,,Munnar,Unverified,False,False
+89,Coimbatore Minimalist Venue 89,Venue,Coimbatore,Minimalist,237963,214166,261759,4.0,42,711.0,"Coimbatore, Palakkad",Unverified,False,False
+90,Thiruvananthapuram Minimalist Makeup 90,Makeup,Thiruvananthapuram,Minimalist,32630,29367,35893,5.0,491,,Thiruvananthapuram,Unverified,False,False
+91,Alappuzha Minimalist Music 91,Music,Alappuzha,Minimalist,12338,11104,13571,4.6,340,,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+92,Mumbai Luxury Catering 92,Catering,Mumbai,Luxury,157395,141655,173134,3.8,440,,Mumbai,Unverified,False,False
+93,Kottayam Traditional Venue 93,Venue,Kottayam,Traditional,73956,66560,81351,3.2,409,504.0,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+94,Kozhikode Traditional Decoration 94,Decoration,Kozhikode,Traditional,106284,95655,116912,3.3,423,,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+95,Alappuzha Luxury Venue 95,Venue,Alappuzha,Luxury,186244,167619,204868,4.3,320,627.0,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+96,Alappuzha Traditional Catering 96,Catering,Alappuzha,Traditional,48609,43748,53469,4.9,110,,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+97,Kollam Minimalist Music 97,Music,Kollam,Minimalist,15827,14244,17409,3.9,182,,Kollam,Unverified,False,False
+98,Kasaragod Luxury Makeup 98,Makeup,Kasaragod,Luxury,21070,18963,23177,3.6,482,,Kasaragod,Unverified,False,False
+99,Kannur Luxury Catering 99,Catering,Kannur,Luxury,186849,168164,205533,3.6,500,,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+100,Munnar Traditional Catering 100,Catering,Munnar,Traditional,82096,73886,90305,3.6,354,,Munnar,Unverified,False,False
+101,Wayanad Traditional Makeup 101,Makeup,Wayanad,Traditional,19436,17492,21379,3.8,374,,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+102,Malappuram Traditional Catering 102,Catering,Malappuram,Traditional,63119,56807,69430,3.9,225,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+103,Malappuram Traditional Catering 103,Catering,Malappuram,Traditional,192037,172833,211240,4.5,357,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+104,Kottayam Traditional Decoration 104,Decoration,Kottayam,Traditional,19604,17643,21564,3.7,466,,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+105,Thrissur Luxury Music 105,Music,Thrissur,Luxury,9537,8583,10490,4.2,162,,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+106,Kollam Modern Music 106,Music,Kollam,Modern,39703,35732,43673,4.4,443,,Kollam,Unverified,False,False
+107,Kozhikode Minimalist Decoration 107,Decoration,Kozhikode,Minimalist,88959,80063,97854,4.3,323,,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+108,Munnar Luxury Decoration 108,Decoration,Munnar,Luxury,101301,91170,111431,3.0,257,,Munnar,Unverified,False,False
+109,Kannur Modern Photography 109,Photography,Kannur,Modern,14856,13370,16341,4.2,60,,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+110,Kochi Minimalist Decoration 110,Decoration,Kochi,Minimalist,22023,19820,24225,4.0,348,,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+111,Kannur Modern Music 111,Music,Kannur,Modern,26185,23566,28803,3.7,367,,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+112,Delhi Minimalist Venue 112,Venue,Delhi,Minimalist,249780,224802,274758,3.2,363,479.0,Delhi,Unverified,False,False
+113,Mumbai Minimalist Makeup 113,Makeup,Mumbai,Minimalist,23914,21522,26305,4.4,252,,Mumbai,Unverified,False,False
+114,Kolkata Modern Photography 114,Photography,Kolkata,Modern,107213,96491,117934,3.5,258,,Kolkata,Unverified,False,False
+115,Bengaluru Modern Venue 115,Venue,Bengaluru,Modern,162710,146439,178981,4.7,499,246.0,Bengaluru,Unverified,False,False
+116,Wayanad Modern Music 116,Music,Wayanad,Modern,36238,32614,39861,4.3,404,,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+117,Malappuram Luxury Decoration 117,Decoration,Malappuram,Luxury,131159,118043,144274,3.2,419,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+118,Alappuzha Luxury Catering 118,Catering,Alappuzha,Luxury,31867,28680,35053,4.6,385,,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+119,Thiruvananthapuram Minimalist Makeup 119,Makeup,Thiruvananthapuram,Minimalist,33408,30067,36748,3.3,469,,Thiruvananthapuram,Unverified,False,False
+120,Kasaragod Luxury Photography 120,Photography,Kasaragod,Luxury,78945,71050,86839,3.4,73,,Kasaragod,Unverified,False,False
+121,Kolkata Luxury Catering 121,Catering,Kolkata,Luxury,78612,70750,86473,3.9,373,,Kolkata,Unverified,False,False
+122,Malappuram Traditional Photography 122,Photography,Malappuram,Traditional,94297,84867,103726,3.7,285,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+123,Kottayam Minimalist Catering 123,Catering,Kottayam,Minimalist,183226,164903,201548,4.3,278,,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+124,Kannur Traditional Catering 124,Catering,Kannur,Traditional,130398,117358,143437,3.6,297,,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+125,Delhi Minimalist Venue 125,Venue,Delhi,Minimalist,165505,148954,182055,4.0,350,785.0,Delhi,Unverified,False,False
+126,Wayanad Traditional Decoration 126,Decoration,Wayanad,Traditional,76286,68657,83914,3.3,309,,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+127,Malappuram Luxury Decoration 127,Decoration,Malappuram,Luxury,106624,95961,117286,3.4,395,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+128,Delhi Luxury Photography 128,Photography,Delhi,Luxury,72405,65164,79645,3.4,483,,Delhi,Unverified,False,False
+129,Kollam Luxury Music 129,Music,Kollam,Luxury,14005,12604,15405,4.4,165,,Kollam,Unverified,False,False
+130,Kochi Luxury Makeup 130,Makeup,Kochi,Luxury,12701,11430,13971,3.5,370,,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+131,Kolkata Traditional Catering 131,Catering,Kolkata,Traditional,99266,89339,109192,4.1,195,,Kolkata,Unverified,False,False
+132,Palakkad Traditional Catering 132,Catering,Palakkad,Traditional,57932,52138,63725,3.9,93,,"Palakkad, Coimbatore",Unverified,False,False
+133,Kottayam Luxury Venue 133,Venue,Kottayam,Luxury,186761,168084,205437,3.4,171,1448.0,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+134,Thrissur Modern Decoration 134,Decoration,Thrissur,Modern,14854,13368,16339,3.9,23,,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+135,Coimbatore Traditional Catering 135,Catering,Coimbatore,Traditional,19960,17964,21956,4.7,262,,"Coimbatore, Palakkad",Unverified,False,False
+136,Mumbai Minimalist Music 136,Music,Mumbai,Minimalist,52417,47175,57658,4.9,481,,Mumbai,Unverified,False,False
+137,Kolkata Modern Photography 137,Photography,Kolkata,Modern,14231,12807,15654,4.8,58,,Kolkata,Unverified,False,False
+138,Kozhikode Traditional Makeup 138,Makeup,Kozhikode,Traditional,32632,29368,35895,4.0,69,,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+139,Kasaragod Modern Photography 139,Photography,Kasaragod,Modern,23988,21589,26386,3.9,162,,Kasaragod,Unverified,False,False
+140,Thrissur Luxury Catering 140,Catering,Thrissur,Luxury,153911,138519,169302,4.9,361,,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+141,Alappuzha Luxury Venue 141,Venue,Alappuzha,Luxury,81976,73778,90173,4.6,382,163.0,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+142,Thiruvananthapuram Modern Venue 142,Venue,Thiruvananthapuram,Modern,153211,137889,168532,5.0,160,150.0,Thiruvananthapuram,Unverified,False,False
+143,Hyderabad Luxury Venue 143,Venue,Hyderabad,Luxury,247207,222486,271927,4.6,23,537.0,Hyderabad,Unverified,False,False
+144,Delhi Luxury Makeup 144,Makeup,Delhi,Luxury,30554,27498,33609,4.2,195,,Delhi,Unverified,False,False
+145,Chennai Modern Photography 145,Photography,Chennai,Modern,56106,50495,61716,4.1,332,,Chennai,Unverified,False,False
+146,Pune Traditional Music 146,Music,Pune,Traditional,25161,22644,27677,3.6,457,,Pune,Unverified,False,False
+147,Mysuru Minimalist Venue 147,Venue,Mysuru,Minimalist,107936,97142,118729,4.1,343,835.0,Mysuru,Unverified,False,False
+148,Pathanamthitta Traditional Catering 148,Catering,Pathanamthitta,Traditional,168802,151921,185682,3.9,203,,Pathanamthitta,Unverified,False,False
+149,Thrissur Modern Venue 149,Venue,Thrissur,Modern,222432,200188,244675,4.1,205,633.0,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+150,Kasaragod Luxury Photography 150,Photography,Kasaragod,Luxury,71889,64700,79077,4.0,460,,Kasaragod,Unverified,False,False
+151,Kasaragod Luxury Decoration 151,Decoration,Kasaragod,Luxury,85861,77274,94447,3.8,351,,Kasaragod,Unverified,False,False
+152,Hyderabad Minimalist Venue 152,Venue,Hyderabad,Minimalist,87078,78370,95785,3.4,34,801.0,Hyderabad,Unverified,False,False
+153,Kozhikode Luxury Venue 153,Venue,Kozhikode,Luxury,70209,63188,77229,4.2,18,477.0,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+154,Thrissur Minimalist Catering 154,Catering,Thrissur,Minimalist,83163,74846,91479,3.9,86,,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+155,Bengaluru Minimalist Photography 155,Photography,Bengaluru,Minimalist,32371,29133,35608,4.1,308,,Bengaluru,Unverified,False,False
+156,Kozhikode Traditional Photography 156,Photography,Kozhikode,Traditional,58723,52850,64595,4.0,426,,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+157,Pune Minimalist Makeup 157,Makeup,Pune,Minimalist,22734,20460,25007,3.8,376,,Pune,Unverified,False,False
+158,Alappuzha Modern Venue 158,Venue,Alappuzha,Modern,50766,45689,55842,4.5,72,618.0,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+159,Pune Traditional Makeup 159,Makeup,Pune,Traditional,8059,7253,8864,3.5,328,,Pune,Unverified,False,False
+160,Pune Traditional Catering 160,Catering,Pune,Traditional,187760,168984,206536,4.7,17,,Pune,Unverified,False,False
+161,Palakkad Modern Decoration 161,Decoration,Palakkad,Modern,147232,132508,161955,3.0,289,,"Palakkad, Coimbatore",Unverified,False,False
+162,Delhi Traditional Catering 162,Catering,Delhi,Traditional,155398,139858,170937,3.1,464,,Delhi,Unverified,False,False
+163,Delhi Modern Photography 163,Photography,Delhi,Modern,31777,28599,34954,3.6,499,,Delhi,Unverified,False,False
+164,Kollam Minimalist Photography 164,Photography,Kollam,Minimalist,67853,61067,74638,4.3,178,,Kollam,Unverified,False,False
+165,Kozhikode Luxury Venue 165,Venue,Kozhikode,Luxury,23243,20918,25567,4.3,426,1029.0,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+166,Thiruvananthapuram Traditional Music 166,Music,Thiruvananthapuram,Traditional,49500,44550,54450,4.7,110,,Thiruvananthapuram,Unverified,False,False
+167,Kasaragod Minimalist Decoration 167,Decoration,Kasaragod,Minimalist,52202,46981,57422,3.4,163,,Kasaragod,Unverified,False,False
+168,Kottayam Traditional Photography 168,Photography,Kottayam,Traditional,87400,78660,96140,4.6,141,,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+169,Alappuzha Minimalist Makeup 169,Makeup,Alappuzha,Minimalist,16101,14490,17711,4.2,367,,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+170,Kollam Minimalist Photography 170,Photography,Kollam,Minimalist,40793,36713,44872,4.1,125,,Kollam,Unverified,False,False
+171,Chennai Traditional Makeup 171,Makeup,Chennai,Traditional,38010,34209,41811,3.2,489,,Chennai,Unverified,False,False
+172,Mysuru Luxury Venue 172,Venue,Mysuru,Luxury,52791,47511,58070,3.5,308,353.0,Mysuru,Unverified,False,False
+173,Delhi Modern Music 173,Music,Delhi,Modern,5744,5169,6318,3.9,118,,Delhi,Unverified,False,False
+174,Mumbai Modern Catering 174,Catering,Mumbai,Modern,38196,34376,42015,4.2,183,,Mumbai,Unverified,False,False
+175,Coimbatore Luxury Catering 175,Catering,Coimbatore,Luxury,41198,37078,45317,3.1,172,,"Coimbatore, Palakkad",Unverified,False,False
+176,Malappuram Luxury Photography 176,Photography,Malappuram,Luxury,64927,58434,71419,4.7,185,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+177,Pune Modern Catering 177,Catering,Pune,Modern,194012,174610,213413,3.6,171,,Pune,Unverified,False,False
+178,Alappuzha Modern Makeup 178,Makeup,Alappuzha,Modern,24027,21624,26429,3.7,390,,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+179,Thiruvananthapuram Traditional Makeup 179,Makeup,Thiruvananthapuram,Traditional,29187,26268,32105,3.6,490,,Thiruvananthapuram,Unverified,False,False
+180,Thrissur Minimalist Makeup 180,Makeup,Thrissur,Minimalist,4998,4498,5497,4.7,457,,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+181,Bengaluru Traditional Music 181,Music,Bengaluru,Traditional,30089,27080,33097,4.6,90,,Bengaluru,Unverified,False,False
+182,Kannur Modern Decoration 182,Decoration,Kannur,Modern,133549,120194,146903,4.3,402,,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+183,Thekkady Minimalist Makeup 183,Makeup,Thekkady,Minimalist,12003,10802,13203,3.6,487,,Thekkady,Unverified,False,False
+184,Mysuru Traditional Makeup 184,Makeup,Mysuru,Traditional,30198,27178,33217,4.7,290,,Mysuru,Unverified,False,False
+185,Malappuram Modern Photography 185,Photography,Malappuram,Modern,96829,87146,106511,3.6,269,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+186,Chennai Modern Venue 186,Venue,Chennai,Modern,37585,33826,41343,3.4,208,356.0,Chennai,Unverified,False,False
+187,Delhi Modern Makeup 187,Makeup,Delhi,Modern,10400,9360,11440,4.1,425,,Delhi,Unverified,False,False
+188,Coimbatore Traditional Venue 188,Venue,Coimbatore,Traditional,193615,174253,212976,4.6,343,862.0,"Coimbatore, Palakkad",Unverified,False,False
+189,Kottayam Modern Decoration 189,Decoration,Kottayam,Modern,19143,17228,21057,5.0,326,,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+190,Kozhikode Traditional Venue 190,Venue,Kozhikode,Traditional,220966,198869,243062,4.6,70,342.0,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+191,Pathanamthitta Luxury Music 191,Music,Pathanamthitta,Luxury,59005,53104,64905,3.0,256,,Pathanamthitta,Unverified,False,False
+192,Kottayam Traditional Music 192,Music,Kottayam,Traditional,13933,12539,15326,4.6,55,,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+193,Alappuzha Modern Decoration 193,Decoration,Alappuzha,Modern,133270,119943,146597,3.3,63,,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+194,Kochi Modern Catering 194,Catering,Kochi,Modern,22931,20637,25224,3.7,444,,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+195,Malappuram Minimalist Music 195,Music,Malappuram,Minimalist,8481,7632,9329,3.8,394,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+196,Malappuram Modern Venue 196,Venue,Malappuram,Modern,168126,151313,184938,4.5,25,286.0,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+197,Kozhikode Luxury Music 197,Music,Kozhikode,Luxury,56939,51245,62632,3.0,155,,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+198,Coimbatore Minimalist Catering 198,Catering,Coimbatore,Minimalist,102473,92225,112720,3.3,285,,"Coimbatore, Palakkad",Unverified,False,False
+199,Munnar Luxury Music 199,Music,Munnar,Luxury,31035,27931,34138,3.0,33,,Munnar,Unverified,False,False
+200,Chennai Traditional Catering 200,Catering,Chennai,Traditional,37289,33560,41017,4.4,261,,Chennai,Unverified,False,False
+201,Kasaragod Luxury Makeup 201,Makeup,Kasaragod,Luxury,32910,29619,36201,3.4,254,,Kasaragod,Unverified,False,False
+202,Kasaragod Modern Makeup 202,Makeup,Kasaragod,Modern,26903,24212,29593,4.8,164,,Kasaragod,Unverified,False,False
+203,Delhi Minimalist Venue 203,Venue,Delhi,Minimalist,85109,76598,93619,3.6,424,233.0,Delhi,Unverified,False,False
+204,Pune Minimalist Catering 204,Catering,Pune,Minimalist,118658,106792,130523,3.3,14,,Pune,Unverified,False,False
+205,Hyderabad Luxury Makeup 205,Makeup,Hyderabad,Luxury,20467,18420,22513,4.3,160,,Hyderabad,Unverified,False,False
+206,Kozhikode Modern Catering 206,Catering,Kozhikode,Modern,159453,143507,175398,3.9,462,,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+207,Kozhikode Luxury Photography 207,Photography,Kozhikode,Luxury,21928,19735,24120,3.7,366,,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+208,Kolkata Luxury Catering 208,Catering,Kolkata,Luxury,74354,66918,81789,3.5,245,,Kolkata,Unverified,False,False
+209,Coimbatore Traditional Decoration 209,Decoration,Coimbatore,Traditional,80446,72401,88490,3.9,205,,"Coimbatore, Palakkad",Unverified,False,False
+210,Alappuzha Modern Catering 210,Catering,Alappuzha,Modern,55378,49840,60915,3.5,238,,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+211,Pune Modern Music 211,Music,Pune,Modern,8033,7229,8836,4.1,109,,Pune,Unverified,False,False
+212,Coimbatore Traditional Venue 212,Venue,Coimbatore,Traditional,159075,143167,174982,3.7,157,279.0,"Coimbatore, Palakkad",Unverified,False,False
+213,Thrissur Luxury Photography 213,Photography,Thrissur,Luxury,84048,75643,92452,4.8,339,,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+214,Malappuram Traditional Makeup 214,Makeup,Malappuram,Traditional,22634,20370,24897,3.7,320,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+215,Kollam Traditional Makeup 215,Makeup,Kollam,Traditional,20802,18721,22882,4.5,388,,Kollam,Unverified,False,False
+216,Chennai Minimalist Venue 216,Venue,Chennai,Minimalist,63527,57174,69879,3.2,129,563.0,Chennai,Unverified,False,False
+217,Mumbai Minimalist Catering 217,Catering,Mumbai,Minimalist,24612,22150,27073,4.9,398,,Mumbai,Unverified,False,False
+218,Kannur Modern Photography 218,Photography,Kannur,Modern,88105,79294,96915,4.8,295,,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+219,Chennai Traditional Photography 219,Photography,Chennai,Traditional,51170,46053,56287,3.8,76,,Chennai,Unverified,False,False
+220,Malappuram Minimalist Decoration 220,Decoration,Malappuram,Minimalist,70014,63012,77015,4.8,18,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+221,Coimbatore Modern Decoration 221,Decoration,Coimbatore,Modern,45013,40511,49514,4.2,384,,"Coimbatore, Palakkad",Unverified,False,False
+222,Mysuru Modern Catering 222,Catering,Mysuru,Modern,32363,29126,35599,3.3,27,,Mysuru,Unverified,False,False
+223,Palakkad Modern Music 223,Music,Palakkad,Modern,56105,50494,61715,4.1,372,,"Palakkad, Coimbatore",Unverified,False,False
+224,Bengaluru Modern Photography 224,Photography,Bengaluru,Modern,108829,97946,119711,3.7,108,,Bengaluru,Unverified,False,False
+225,Mysuru Traditional Photography 225,Photography,Mysuru,Traditional,14406,12965,15846,4.4,347,,Mysuru,Unverified,False,False
+226,Thrissur Luxury Music 226,Music,Thrissur,Luxury,23377,21039,25714,3.1,352,,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+227,Chennai Minimalist Venue 227,Venue,Chennai,Minimalist,95179,85661,104696,3.1,118,1467.0,Chennai,Unverified,False,False
+228,Kozhikode Minimalist Makeup 228,Makeup,Kozhikode,Minimalist,29628,26665,32590,4.8,145,,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+229,Pune Minimalist Catering 229,Catering,Pune,Minimalist,45617,41055,50178,4.4,451,,Pune,Unverified,False,False
+230,Munnar Traditional Decoration 230,Decoration,Munnar,Traditional,122319,110087,134550,4.9,32,,Munnar,Unverified,False,False
+231,Wayanad Luxury Catering 231,Catering,Wayanad,Luxury,116429,104786,128071,3.4,190,,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+232,Thiruvananthapuram Minimalist Catering 232,Catering,Thiruvananthapuram,Minimalist,152536,137282,167789,4.5,443,,Thiruvananthapuram,Unverified,False,False
+233,Munnar Modern Makeup 233,Makeup,Munnar,Modern,11998,10798,13197,3.8,11,,Munnar,Unverified,False,False
+234,Alappuzha Modern Decoration 234,Decoration,Alappuzha,Modern,110980,99882,122078,3.6,388,,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+235,Kannur Minimalist Makeup 235,Makeup,Kannur,Minimalist,16214,14592,17835,3.1,217,,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+236,Alappuzha Luxury Catering 236,Catering,Alappuzha,Luxury,46087,41478,50695,4.5,40,,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+237,Kasaragod Modern Decoration 237,Decoration,Kasaragod,Modern,55972,50374,61569,4.4,450,,Kasaragod,Unverified,False,False
+238,Kolkata Modern Decoration 238,Decoration,Kolkata,Modern,57191,51471,62910,4.2,388,,Kolkata,Unverified,False,False
+239,Munnar Minimalist Music 239,Music,Munnar,Minimalist,21315,19183,23446,4.5,194,,Munnar,Unverified,False,False
+240,Pathanamthitta Traditional Decoration 240,Decoration,Pathanamthitta,Traditional,73001,65700,80301,3.7,476,,Pathanamthitta,Unverified,False,False
+241,Kasaragod Modern Decoration 241,Decoration,Kasaragod,Modern,21682,19513,23850,3.8,256,,Kasaragod,Unverified,False,False
+242,Mysuru Modern Makeup 242,Makeup,Mysuru,Modern,10962,9865,12058,3.5,208,,Mysuru,Unverified,False,False
+243,Kozhikode Modern Photography 243,Photography,Kozhikode,Modern,66108,59497,72718,4.3,54,,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+244,Coimbatore Traditional Catering 244,Catering,Coimbatore,Traditional,186634,167970,205297,3.3,399,,"Coimbatore, Palakkad",Unverified,False,False
+245,Kottayam Luxury Venue 245,Venue,Kottayam,Luxury,234762,211285,258238,3.0,470,296.0,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+246,Delhi Luxury Makeup 246,Makeup,Delhi,Luxury,5081,4572,5589,3.7,168,,Delhi,Unverified,False,False
+247,Kolkata Luxury Makeup 247,Makeup,Kolkata,Luxury,31173,28055,34290,4.7,18,,Kolkata,Unverified,False,False
+248,Alappuzha Luxury Photography 248,Photography,Alappuzha,Luxury,99763,89786,109739,4.8,285,,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+249,Munnar Traditional Makeup 249,Makeup,Munnar,Traditional,9901,8910,10891,4.3,67,,Munnar,Unverified,False,False
+250,Munnar Luxury Music 250,Music,Munnar,Luxury,19750,17775,21725,3.3,6,,Munnar,Unverified,False,False
+251,Kannur Minimalist Venue 251,Venue,Kannur,Minimalist,134700,121230,148170,4.5,411,1194.0,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+252,Wayanad Modern Music 252,Music,Wayanad,Modern,39819,35837,43800,5.0,499,,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+253,Coimbatore Luxury Photography 253,Photography,Coimbatore,Luxury,77359,69623,85094,3.3,253,,"Coimbatore, Palakkad",Unverified,False,False
+254,Chennai Luxury Venue 254,Venue,Chennai,Luxury,98451,88605,108296,4.4,30,423.0,Chennai,Unverified,False,False
+255,Wayanad Luxury Makeup 255,Makeup,Wayanad,Luxury,14709,13238,16179,4.9,326,,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+256,Wayanad Traditional Catering 256,Catering,Wayanad,Traditional,77251,69525,84976,4.6,269,,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+257,Wayanad Luxury Catering 257,Catering,Wayanad,Luxury,35242,31717,38766,4.4,190,,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+258,Kollam Luxury Venue 258,Venue,Kollam,Luxury,132457,119211,145702,4.8,113,1412.0,Kollam,Unverified,False,False
+259,Thiruvananthapuram Modern Makeup 259,Makeup,Thiruvananthapuram,Modern,4157,3741,4572,3.9,114,,Thiruvananthapuram,Unverified,False,False
+260,Pathanamthitta Traditional Photography 260,Photography,Pathanamthitta,Traditional,97333,87599,107066,3.2,51,,Pathanamthitta,Unverified,False,False
+261,Wayanad Modern Photography 261,Photography,Wayanad,Modern,107537,96783,118290,4.4,367,,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+262,Kolkata Luxury Photography 262,Photography,Kolkata,Luxury,114198,102778,125617,3.5,368,,Kolkata,Unverified,False,False
+263,Alappuzha Minimalist Catering 263,Catering,Alappuzha,Minimalist,30574,27516,33631,4.7,488,,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+264,Kolkata Minimalist Catering 264,Catering,Kolkata,Minimalist,176772,159094,194449,3.6,304,,Kolkata,Unverified,False,False
+265,Kolkata Luxury Decoration 265,Decoration,Kolkata,Luxury,56782,51103,62460,3.8,262,,Kolkata,Unverified,False,False
+266,Munnar Modern Catering 266,Catering,Munnar,Modern,185624,167061,204186,4.7,71,,Munnar,Unverified,False,False
+267,Pune Minimalist Music 267,Music,Pune,Minimalist,44356,39920,48791,4.7,380,,Pune,Unverified,False,False
+268,Chennai Modern Catering 268,Catering,Chennai,Modern,170712,153640,187783,3.0,134,,Chennai,Unverified,False,False
+269,Alappuzha Modern Makeup 269,Makeup,Alappuzha,Modern,4383,3944,4821,3.9,388,,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+270,Alappuzha Minimalist Venue 270,Venue,Alappuzha,Minimalist,77566,69809,85322,3.9,403,1222.0,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+271,Mysuru Minimalist Music 271,Music,Mysuru,Minimalist,52556,47300,57811,3.9,371,,Mysuru,Unverified,False,False
+272,Pathanamthitta Minimalist Decoration 272,Decoration,Pathanamthitta,Minimalist,29734,26760,32707,4.0,380,,Pathanamthitta,Unverified,False,False
+273,Kozhikode Luxury Music 273,Music,Kozhikode,Luxury,9819,8837,10800,4.2,102,,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+274,Kasaragod Traditional Catering 274,Catering,Kasaragod,Traditional,110367,99330,121403,3.7,318,,Kasaragod,Unverified,False,False
+275,Coimbatore Modern Music 275,Music,Coimbatore,Modern,26160,23544,28776,3.9,370,,"Coimbatore, Palakkad",Unverified,False,False
+276,Thekkady Luxury Venue 276,Venue,Thekkady,Luxury,204906,184415,225396,4.4,311,1421.0,Thekkady,Unverified,False,False
+277,Mumbai Minimalist Decoration 277,Decoration,Mumbai,Minimalist,91844,82659,101028,4.4,494,,Mumbai,Unverified,False,False
+278,Thrissur Minimalist Makeup 278,Makeup,Thrissur,Minimalist,12333,11099,13566,4.0,187,,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+279,Thiruvananthapuram Minimalist Makeup 279,Makeup,Thiruvananthapuram,Minimalist,16217,14595,17838,3.1,412,,Thiruvananthapuram,Unverified,False,False
+280,Palakkad Modern Music 280,Music,Palakkad,Modern,22517,20265,24768,4.7,258,,"Palakkad, Coimbatore",Unverified,False,False
+281,Alappuzha Traditional Catering 281,Catering,Alappuzha,Traditional,198224,178401,218046,4.0,49,,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+282,Palakkad Modern Venue 282,Venue,Palakkad,Modern,92901,83610,102191,4.0,232,76.0,"Palakkad, Coimbatore",Unverified,False,False
+283,Pune Modern Photography 283,Photography,Pune,Modern,96519,86867,106170,3.1,225,,Pune,Unverified,False,False
+284,Pune Luxury Catering 284,Catering,Pune,Luxury,133179,119861,146496,4.0,317,,Pune,Unverified,False,False
+285,Wayanad Luxury Catering 285,Catering,Wayanad,Luxury,76001,68400,83601,4.3,25,,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+286,Pathanamthitta Modern Music 286,Music,Pathanamthitta,Modern,6401,5760,7041,3.3,287,,Pathanamthitta,Unverified,False,False
+287,Palakkad Traditional Catering 287,Catering,Palakkad,Traditional,134410,120969,147851,4.8,308,,"Palakkad, Coimbatore",Unverified,False,False
+288,Munnar Modern Photography 288,Photography,Munnar,Modern,81812,73630,89993,4.8,277,,Munnar,Unverified,False,False
+289,Chennai Luxury Venue 289,Venue,Chennai,Luxury,93367,84030,102703,4.4,253,477.0,Chennai,Unverified,False,False
+290,Hyderabad Modern Makeup 290,Makeup,Hyderabad,Modern,26021,23418,28623,4.6,233,,Hyderabad,Unverified,False,False
+291,Alappuzha Modern Music 291,Music,Alappuzha,Modern,7380,6642,8118,3.5,218,,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+292,Kozhikode Luxury Makeup 292,Makeup,Kozhikode,Luxury,16128,14515,17740,3.1,255,,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+293,Chennai Luxury Music 293,Music,Chennai,Luxury,50653,45587,55718,4.1,359,,Chennai,Unverified,False,False
+294,Delhi Modern Photography 294,Photography,Delhi,Modern,116452,104806,128097,4.9,197,,Delhi,Unverified,False,False
+295,Kochi Traditional Venue 295,Venue,Kochi,Traditional,65985,59386,72583,3.9,236,755.0,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+296,Thiruvananthapuram Modern Venue 296,Venue,Thiruvananthapuram,Modern,156219,140597,171840,3.5,349,1191.0,Thiruvananthapuram,Unverified,False,False
+297,Bengaluru Minimalist Photography 297,Photography,Bengaluru,Minimalist,38764,34887,42640,4.5,11,,Bengaluru,Unverified,False,False
+298,Pathanamthitta Luxury Decoration 298,Decoration,Pathanamthitta,Luxury,124438,111994,136881,4.0,185,,Pathanamthitta,Unverified,False,False
+299,Thiruvananthapuram Modern Decoration 299,Decoration,Thiruvananthapuram,Modern,30215,27193,33236,4.9,305,,Thiruvananthapuram,Unverified,False,False
+300,Kolkata Luxury Decoration 300,Decoration,Kolkata,Luxury,133816,120434,147197,5.0,134,,Kolkata,Unverified,False,False
+301,Mysuru Luxury Catering 301,Catering,Mysuru,Luxury,182129,163916,200341,4.8,151,,Mysuru,Unverified,False,False
+302,Thekkady Minimalist Makeup 302,Makeup,Thekkady,Minimalist,22596,20336,24855,3.6,485,,Thekkady,Unverified,False,False
+303,Kochi Luxury Photography 303,Photography,Kochi,Luxury,48937,44043,53830,4.0,69,,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+304,Kottayam Modern Makeup 304,Makeup,Kottayam,Modern,36260,32634,39886,3.2,468,,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+305,Hyderabad Minimalist Photography 305,Photography,Hyderabad,Minimalist,27639,24875,30402,4.4,208,,Hyderabad,Unverified,False,False
+306,Kannur Modern Catering 306,Catering,Kannur,Modern,199329,179396,219261,4.1,275,,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+307,Hyderabad Minimalist Photography 307,Photography,Hyderabad,Minimalist,74208,66787,81628,3.9,262,,Hyderabad,Unverified,False,False
+308,Mumbai Luxury Venue 308,Venue,Mumbai,Luxury,85659,77093,94224,3.3,130,795.0,Mumbai,Unverified,False,False
+309,Kannur Modern Photography 309,Photography,Kannur,Modern,66246,59621,72870,4.0,77,,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+310,Malappuram Modern Makeup 310,Makeup,Malappuram,Modern,8833,7949,9716,3.4,100,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+311,Pune Minimalist Photography 311,Photography,Pune,Minimalist,114557,103101,126012,3.7,270,,Pune,Unverified,False,False
+312,Bengaluru Luxury Catering 312,Catering,Bengaluru,Luxury,35098,31588,38607,3.9,188,,Bengaluru,Unverified,False,False
+313,Malappuram Traditional Venue 313,Venue,Malappuram,Traditional,22397,20157,24636,3.1,20,911.0,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+314,Delhi Luxury Catering 314,Catering,Delhi,Luxury,93475,84127,102822,4.5,413,,Delhi,Unverified,False,False
+315,Mysuru Traditional Catering 315,Catering,Mysuru,Traditional,105150,94635,115665,3.2,367,,Mysuru,Unverified,False,False
+316,Pune Luxury Decoration 316,Decoration,Pune,Luxury,141307,127176,155437,5.0,457,,Pune,Unverified,False,False
+317,Alappuzha Minimalist Music 317,Music,Alappuzha,Minimalist,38006,34205,41806,4.4,52,,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+318,Thrissur Traditional Photography 318,Photography,Thrissur,Traditional,100133,90119,110146,4.5,127,,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+319,Coimbatore Modern Catering 319,Catering,Coimbatore,Modern,84136,75722,92549,4.0,185,,"Coimbatore, Palakkad",Unverified,False,False
+320,Palakkad Minimalist Music 320,Music,Palakkad,Minimalist,43329,38996,47661,4.0,137,,"Palakkad, Coimbatore",Unverified,False,False
+321,Delhi Minimalist Music 321,Music,Delhi,Minimalist,44075,39667,48482,4.1,23,,Delhi,Unverified,False,False
+322,Kollam Modern Decoration 322,Decoration,Kollam,Modern,120137,108123,132150,3.6,88,,Kollam,Unverified,False,False
+323,Kollam Traditional Photography 323,Photography,Kollam,Traditional,86742,78067,95416,3.4,302,,Kollam,Unverified,False,False
+324,Hyderabad Luxury Music 324,Music,Hyderabad,Luxury,24311,21879,26742,4.1,161,,Hyderabad,Unverified,False,False
+325,Kannur Minimalist Music 325,Music,Kannur,Minimalist,29792,26812,32771,4.8,427,,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+326,Malappuram Modern Decoration 326,Decoration,Malappuram,Modern,45757,41181,50332,4.7,284,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+327,Thiruvananthapuram Minimalist Decoration 327,Decoration,Thiruvananthapuram,Minimalist,11939,10745,13132,4.2,158,,Thiruvananthapuram,Unverified,False,False
+328,Malappuram Luxury Music 328,Music,Malappuram,Luxury,47743,42968,52517,4.2,227,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+329,Malappuram Luxury Catering 329,Catering,Malappuram,Luxury,33467,30120,36813,3.9,28,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+330,Munnar Traditional Catering 330,Catering,Munnar,Traditional,70259,63233,77284,3.6,9,,Munnar,Unverified,False,False
+331,Kasaragod Modern Makeup 331,Makeup,Kasaragod,Modern,8478,7630,9325,3.4,82,,Kasaragod,Unverified,False,False
+332,Mumbai Traditional Catering 332,Catering,Mumbai,Traditional,84036,75632,92439,3.6,356,,Mumbai,Unverified,False,False
+333,Kottayam Modern Venue 333,Venue,Kottayam,Modern,225809,203228,248389,5.0,420,661.0,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+334,Kochi Traditional Catering 334,Catering,Kochi,Traditional,38306,34475,42136,3.6,164,,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+335,Mumbai Luxury Makeup 335,Makeup,Mumbai,Luxury,36181,32562,39799,3.1,353,,Mumbai,Unverified,False,False
+336,Hyderabad Luxury Photography 336,Photography,Hyderabad,Luxury,28674,25806,31541,4.2,39,,Hyderabad,Unverified,False,False
+337,Kozhikode Modern Venue 337,Venue,Kozhikode,Modern,129644,116679,142608,4.1,5,189.0,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+338,Thiruvananthapuram Traditional Photography 338,Photography,Thiruvananthapuram,Traditional,30402,27361,33442,3.3,237,,Thiruvananthapuram,Unverified,False,False
+339,Kochi Traditional Decoration 339,Decoration,Kochi,Traditional,25400,22860,27940,4.0,100,,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+340,Hyderabad Modern Catering 340,Catering,Hyderabad,Modern,137378,123640,151115,5.0,489,,Hyderabad,Unverified,False,False
+341,Kochi Modern Photography 341,Photography,Kochi,Modern,112229,101006,123451,3.3,283,,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+342,Bengaluru Luxury Venue 342,Venue,Bengaluru,Luxury,202237,182013,222460,4.5,213,164.0,Bengaluru,Unverified,False,False
+343,Malappuram Luxury Photography 343,Photography,Malappuram,Luxury,87401,78660,96141,3.4,147,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+344,Thrissur Modern Venue 344,Venue,Thrissur,Modern,227066,204359,249772,3.6,63,399.0,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+345,Malappuram Traditional Makeup 345,Makeup,Malappuram,Traditional,4142,3727,4556,3.8,8,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+346,Thiruvananthapuram Minimalist Decoration 346,Decoration,Thiruvananthapuram,Minimalist,145195,130675,159714,4.8,467,,Thiruvananthapuram,Unverified,False,False
+347,Thekkady Minimalist Catering 347,Catering,Thekkady,Minimalist,132174,118956,145391,4.9,478,,Thekkady,Unverified,False,False
+348,Kasaragod Modern Venue 348,Venue,Kasaragod,Modern,30125,27112,33137,4.3,11,886.0,Kasaragod,Unverified,False,False
+349,Palakkad Traditional Catering 349,Catering,Palakkad,Traditional,137341,123606,151075,4.5,131,,"Palakkad, Coimbatore",Unverified,False,False
+350,Kozhikode Modern Decoration 350,Decoration,Kozhikode,Modern,135797,122217,149376,3.2,187,,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+351,Chennai Minimalist Venue 351,Venue,Chennai,Minimalist,206186,185567,226804,3.5,199,560.0,Chennai,Unverified,False,False
+352,Kottayam Luxury Music 352,Music,Kottayam,Luxury,11632,10468,12795,3.2,391,,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+353,Pune Traditional Venue 353,Venue,Pune,Traditional,150634,135570,165697,4.3,242,711.0,Pune,Unverified,False,False
+354,Coimbatore Luxury Decoration 354,Decoration,Coimbatore,Luxury,33670,30303,37037,3.7,57,,"Coimbatore, Palakkad",Unverified,False,False
+355,Kochi Luxury Venue 355,Venue,Kochi,Luxury,98905,89014,108795,4.9,307,1094.0,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+356,Pathanamthitta Modern Catering 356,Catering,Pathanamthitta,Modern,41195,37075,45314,4.4,271,,Pathanamthitta,Unverified,False,False
+357,Kannur Minimalist Makeup 357,Makeup,Kannur,Minimalist,5902,5311,6492,3.1,245,,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+358,Thekkady Luxury Music 358,Music,Thekkady,Luxury,45318,40786,49849,4.6,189,,Thekkady,Unverified,False,False
+359,Palakkad Traditional Venue 359,Venue,Palakkad,Traditional,207939,187145,228732,3.6,108,1281.0,"Palakkad, Coimbatore",Unverified,False,False
+360,Coimbatore Modern Music 360,Music,Coimbatore,Modern,51509,46358,56659,3.4,380,,"Coimbatore, Palakkad",Unverified,False,False
+361,Kannur Modern Makeup 361,Makeup,Kannur,Modern,7351,6615,8086,4.8,412,,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+362,Malappuram Luxury Venue 362,Venue,Malappuram,Luxury,67665,60898,74431,4.2,12,1263.0,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+363,Kochi Traditional Music 363,Music,Kochi,Traditional,46949,42254,51643,4.1,409,,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+364,Pune Modern Music 364,Music,Pune,Modern,19206,17285,21126,4.7,444,,Pune,Unverified,False,False
+365,Alappuzha Minimalist Venue 365,Venue,Alappuzha,Minimalist,142874,128586,157161,4.1,41,1224.0,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+366,Palakkad Luxury Photography 366,Photography,Palakkad,Luxury,35877,32289,39464,4.6,442,,"Palakkad, Coimbatore",Unverified,False,False
+367,Hyderabad Modern Makeup 367,Makeup,Hyderabad,Modern,3257,2931,3582,3.1,477,,Hyderabad,Unverified,False,False
+368,Wayanad Traditional Decoration 368,Decoration,Wayanad,Traditional,130761,117684,143837,3.6,67,,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+369,Bengaluru Minimalist Decoration 369,Decoration,Bengaluru,Minimalist,27031,24327,29734,4.1,242,,Bengaluru,Unverified,False,False
+370,Munnar Luxury Music 370,Music,Munnar,Luxury,58036,52232,63839,3.1,195,,Munnar,Unverified,False,False
+371,Delhi Minimalist Makeup 371,Makeup,Delhi,Minimalist,30960,27864,34056,4.6,494,,Delhi,Unverified,False,False
+372,Palakkad Traditional Photography 372,Photography,Palakkad,Traditional,34232,30808,37655,4.1,109,,"Palakkad, Coimbatore",Unverified,False,False
+373,Malappuram Minimalist Photography 373,Photography,Malappuram,Minimalist,87781,79002,96559,4.4,157,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+374,Palakkad Modern Decoration 374,Decoration,Palakkad,Modern,145092,130582,159601,4.5,106,,"Palakkad, Coimbatore",Unverified,False,False
+375,Kannur Traditional Decoration 375,Decoration,Kannur,Traditional,45701,41130,50271,3.6,110,,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+376,Mumbai Luxury Music 376,Music,Mumbai,Luxury,26639,23975,29302,4.8,413,,Mumbai,Unverified,False,False
+377,Kannur Traditional Makeup 377,Makeup,Kannur,Traditional,30153,27137,33168,4.6,497,,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+378,Mumbai Traditional Catering 378,Catering,Mumbai,Traditional,98733,88859,108606,3.5,392,,Mumbai,Unverified,False,False
+379,Thekkady Minimalist Music 379,Music,Thekkady,Minimalist,13685,12316,15053,3.8,315,,Thekkady,Unverified,False,False
+380,Bengaluru Minimalist Venue 380,Venue,Bengaluru,Minimalist,190468,171421,209514,4.0,324,310.0,Bengaluru,Unverified,False,False
+381,Kolkata Traditional Venue 381,Venue,Kolkata,Traditional,200849,180764,220933,4.5,341,1261.0,Kolkata,Unverified,False,False
+382,Delhi Modern Decoration 382,Decoration,Delhi,Modern,14858,13372,16343,4.6,370,,Delhi,Unverified,False,False
+383,Pune Luxury Music 383,Music,Pune,Luxury,53393,48053,58732,4.5,295,,Pune,Unverified,False,False
+384,Malappuram Traditional Makeup 384,Makeup,Malappuram,Traditional,26567,23910,29223,3.2,277,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+385,Kozhikode Modern Music 385,Music,Kozhikode,Modern,28575,25717,31432,4.9,222,,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+386,Kochi Luxury Catering 386,Catering,Kochi,Luxury,29908,26917,32898,4.8,390,,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+387,Chennai Traditional Decoration 387,Decoration,Chennai,Traditional,123508,111157,135858,3.7,260,,Chennai,Unverified,False,False
+388,Kasaragod Traditional Photography 388,Photography,Kasaragod,Traditional,50488,45439,55536,3.1,272,,Kasaragod,Unverified,False,False
+389,Wayanad Modern Photography 389,Photography,Wayanad,Modern,65347,58812,71881,4.4,151,,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+390,Kozhikode Minimalist Photography 390,Photography,Kozhikode,Minimalist,62350,56115,68585,4.3,306,,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+391,Malappuram Luxury Music 391,Music,Malappuram,Luxury,21325,19192,23457,4.6,98,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+392,Kollam Luxury Photography 392,Photography,Kollam,Luxury,79659,71693,87624,3.2,122,,Kollam,Unverified,False,False
+393,Bengaluru Traditional Photography 393,Photography,Bengaluru,Traditional,113903,102512,125293,4.6,110,,Bengaluru,Unverified,False,False
+394,Kasaragod Luxury Venue 394,Venue,Kasaragod,Luxury,65037,58533,71540,3.4,296,95.0,Kasaragod,Unverified,False,False
+395,Kozhikode Luxury Catering 395,Catering,Kozhikode,Luxury,98595,88735,108454,4.7,238,,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+396,Pune Luxury Venue 396,Venue,Pune,Luxury,157906,142115,173696,4.7,231,1172.0,Pune,Unverified,False,False
+397,Mumbai Modern Music 397,Music,Mumbai,Modern,57659,51893,63424,3.5,24,,Mumbai,Unverified,False,False
+398,Pune Modern Decoration 398,Decoration,Pune,Modern,94095,84685,103504,4.4,251,,Pune,Unverified,False,False
+399,Thrissur Minimalist Catering 399,Catering,Thrissur,Minimalist,53996,48596,59395,4.5,451,,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+400,Mumbai Traditional Decoration 400,Decoration,Mumbai,Traditional,86769,78092,95445,4.1,157,,Mumbai,Unverified,False,False
+401,Delhi Luxury Photography 401,Photography,Delhi,Luxury,83360,75024,91696,4.5,440,,Delhi,Unverified,False,False
+402,Thiruvananthapuram Modern Venue 402,Venue,Thiruvananthapuram,Modern,152574,137316,167831,5.0,294,392.0,Thiruvananthapuram,Unverified,False,False
+403,Hyderabad Luxury Music 403,Music,Hyderabad,Luxury,24244,21819,26668,4.4,428,,Hyderabad,Unverified,False,False
+404,Hyderabad Modern Venue 404,Venue,Hyderabad,Modern,173218,155896,190539,5.0,75,1241.0,Hyderabad,Unverified,False,False
+405,Kollam Traditional Catering 405,Catering,Kollam,Traditional,70270,63243,77297,4.6,137,,Kollam,Unverified,False,False
+406,Kozhikode Modern Venue 406,Venue,Kozhikode,Modern,215128,193615,236640,4.2,259,1361.0,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+407,Mumbai Luxury Music 407,Music,Mumbai,Luxury,57880,52092,63668,4.0,340,,Mumbai,Unverified,False,False
+408,Thekkady Modern Decoration 408,Decoration,Thekkady,Modern,10163,9146,11179,4.9,391,,Thekkady,Unverified,False,False
+409,Bengaluru Modern Venue 409,Venue,Bengaluru,Modern,209216,188294,230137,4.2,101,1120.0,Bengaluru,Unverified,False,False
+410,Mumbai Modern Catering 410,Catering,Mumbai,Modern,62951,56655,69246,4.3,394,,Mumbai,Unverified,False,False
+411,Pune Luxury Makeup 411,Makeup,Pune,Luxury,34937,31443,38430,4.1,364,,Pune,Unverified,False,False
+412,Coimbatore Luxury Catering 412,Catering,Coimbatore,Luxury,146279,131651,160906,4.6,217,,"Coimbatore, Palakkad",Unverified,False,False
+413,Bengaluru Modern Makeup 413,Makeup,Bengaluru,Modern,35282,31753,38810,4.0,428,,Bengaluru,Unverified,False,False
+414,Thekkady Modern Makeup 414,Makeup,Thekkady,Modern,12108,10897,13318,4.4,379,,Thekkady,Unverified,False,False
+415,Wayanad Modern Photography 415,Photography,Wayanad,Modern,77730,69957,85503,4.6,256,,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+416,Wayanad Traditional Makeup 416,Makeup,Wayanad,Traditional,7538,6784,8291,4.0,242,,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+417,Munnar Luxury Catering 417,Catering,Munnar,Luxury,186410,167769,205051,4.8,452,,Munnar,Unverified,False,False
+418,Pune Traditional Makeup 418,Makeup,Pune,Traditional,38646,34781,42510,4.6,227,,Pune,Unverified,False,False
+419,Mumbai Traditional Photography 419,Photography,Mumbai,Traditional,92928,83635,102220,4.0,149,,Mumbai,Unverified,False,False
+420,Wayanad Modern Photography 420,Photography,Wayanad,Modern,86918,78226,95609,4.9,264,,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+421,Mumbai Modern Decoration 421,Decoration,Mumbai,Modern,49358,44422,54293,3.3,318,,Mumbai,Unverified,False,False
+422,Wayanad Minimalist Venue 422,Venue,Wayanad,Minimalist,137553,123797,151308,4.2,142,440.0,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+423,Kozhikode Minimalist Music 423,Music,Kozhikode,Minimalist,30416,27374,33457,4.8,466,,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+424,Wayanad Modern Decoration 424,Decoration,Wayanad,Modern,113665,102298,125031,4.9,188,,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+425,Munnar Traditional Photography 425,Photography,Munnar,Traditional,68881,61992,75769,3.4,217,,Munnar,Unverified,False,False
+426,Alappuzha Traditional Catering 426,Catering,Alappuzha,Traditional,193678,174310,213045,4.5,278,,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+427,Pathanamthitta Traditional Catering 427,Catering,Pathanamthitta,Traditional,173457,156111,190802,3.0,434,,Pathanamthitta,Unverified,False,False
+428,Kasaragod Luxury Photography 428,Photography,Kasaragod,Luxury,23806,21425,26186,3.7,265,,Kasaragod,Unverified,False,False
+429,Kollam Luxury Photography 429,Photography,Kollam,Luxury,80531,72477,88584,4.2,132,,Kollam,Unverified,False,False
+430,Wayanad Luxury Music 430,Music,Wayanad,Luxury,52787,47508,58065,4.2,35,,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+431,Kozhikode Modern Decoration 431,Decoration,Kozhikode,Modern,114133,102719,125546,3.5,96,,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+432,Thiruvananthapuram Traditional Catering 432,Catering,Thiruvananthapuram,Traditional,171977,154779,189174,4.0,212,,Thiruvananthapuram,Unverified,False,False
+433,Coimbatore Modern Photography 433,Photography,Coimbatore,Modern,86565,77908,95221,3.1,179,,"Coimbatore, Palakkad",Unverified,False,False
+434,Wayanad Traditional Venue 434,Venue,Wayanad,Traditional,42659,38393,46924,4.0,455,548.0,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+435,Kottayam Traditional Decoration 435,Decoration,Kottayam,Traditional,35847,32262,39431,4.7,337,,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+436,Mysuru Minimalist Venue 436,Venue,Mysuru,Minimalist,145807,131226,160387,3.7,400,998.0,Mysuru,Unverified,False,False
+437,Kasaragod Minimalist Catering 437,Catering,Kasaragod,Minimalist,156988,141289,172686,4.9,192,,Kasaragod,Unverified,False,False
+438,Thekkady Modern Photography 438,Photography,Thekkady,Modern,12146,10931,13360,4.7,441,,Thekkady,Unverified,False,False
+439,Pune Luxury Decoration 439,Decoration,Pune,Luxury,34234,30810,37657,3.9,351,,Pune,Unverified,False,False
+440,Kasaragod Traditional Catering 440,Catering,Kasaragod,Traditional,74006,66605,81406,3.6,315,,Kasaragod,Unverified,False,False
+441,Malappuram Luxury Makeup 441,Makeup,Malappuram,Luxury,22596,20336,24855,4.8,9,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+442,Thiruvananthapuram Traditional Catering 442,Catering,Thiruvananthapuram,Traditional,171240,154116,188364,3.5,382,,Thiruvananthapuram,Unverified,False,False
+443,Mumbai Traditional Makeup 443,Makeup,Mumbai,Traditional,15384,13845,16922,4.8,348,,Mumbai,Unverified,False,False
+444,Kollam Minimalist Decoration 444,Decoration,Kollam,Minimalist,83978,75580,92375,3.5,340,,Kollam,Unverified,False,False
+445,Wayanad Traditional Venue 445,Venue,Wayanad,Traditional,80555,72499,88610,4.4,145,1248.0,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+446,Thiruvananthapuram Traditional Music 446,Music,Thiruvananthapuram,Traditional,39825,35842,43807,4.8,339,,Thiruvananthapuram,Unverified,False,False
+447,Malappuram Traditional Music 447,Music,Malappuram,Traditional,14453,13007,15898,3.4,31,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+448,Kochi Traditional Makeup 448,Makeup,Kochi,Traditional,39224,35301,43146,3.8,261,,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+449,Mysuru Modern Makeup 449,Makeup,Mysuru,Modern,33104,29793,36414,4.8,210,,Mysuru,Unverified,False,False
+450,Malappuram Minimalist Catering 450,Catering,Malappuram,Minimalist,106936,96242,117629,4.3,232,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+451,Kochi Modern Makeup 451,Makeup,Kochi,Modern,14945,13450,16439,3.1,51,,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+452,Malappuram Traditional Photography 452,Photography,Malappuram,Traditional,78436,70592,86279,3.9,243,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+453,Thrissur Luxury Music 453,Music,Thrissur,Luxury,31086,27977,34194,3.5,293,,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+454,Wayanad Luxury Photography 454,Photography,Wayanad,Luxury,91834,82650,101017,3.8,312,,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+455,Munnar Modern Music 455,Music,Munnar,Modern,51192,46072,56311,3.1,203,,Munnar,Unverified,False,False
+456,Kannur Modern Music 456,Music,Kannur,Modern,20503,18452,22553,4.0,35,,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+457,Mumbai Minimalist Catering 457,Catering,Mumbai,Minimalist,73723,66350,81095,4.6,450,,Mumbai,Unverified,False,False
+458,Munnar Luxury Music 458,Music,Munnar,Luxury,18920,17028,20812,4.3,265,,Munnar,Unverified,False,False
+459,Palakkad Traditional Photography 459,Photography,Palakkad,Traditional,113612,102250,124973,4.6,379,,"Palakkad, Coimbatore",Unverified,False,False
+460,Kollam Traditional Decoration 460,Decoration,Kollam,Traditional,78826,70943,86708,3.7,363,,Kollam,Unverified,False,False
+461,Kozhikode Luxury Catering 461,Catering,Kozhikode,Luxury,166033,149429,182636,4.7,233,,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+462,Munnar Traditional Catering 462,Catering,Munnar,Traditional,18539,16685,20392,4.7,275,,Munnar,Unverified,False,False
+463,Delhi Luxury Decoration 463,Decoration,Delhi,Luxury,92260,83034,101486,4.6,355,,Delhi,Unverified,False,False
+464,Bengaluru Luxury Decoration 464,Decoration,Bengaluru,Luxury,64785,58306,71263,3.5,48,,Bengaluru,Unverified,False,False
+465,Munnar Traditional Makeup 465,Makeup,Munnar,Traditional,11318,10186,12449,4.7,420,,Munnar,Unverified,False,False
+466,Kottayam Luxury Venue 466,Venue,Kottayam,Luxury,121052,108946,133157,4.7,78,499.0,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+467,Pathanamthitta Traditional Makeup 467,Makeup,Pathanamthitta,Traditional,18941,17046,20835,3.8,170,,Pathanamthitta,Unverified,False,False
+468,Delhi Luxury Music 468,Music,Delhi,Luxury,55234,49710,60757,3.3,458,,Delhi,Unverified,False,False
+469,Delhi Luxury Decoration 469,Decoration,Delhi,Luxury,72468,65221,79714,3.2,458,,Delhi,Unverified,False,False
+470,Chennai Minimalist Music 470,Music,Chennai,Minimalist,27632,24868,30395,4.4,7,,Chennai,Unverified,False,False
+471,Thekkady Modern Venue 471,Venue,Thekkady,Modern,73027,65724,80329,4.7,428,317.0,Thekkady,Unverified,False,False
+472,Malappuram Luxury Catering 472,Catering,Malappuram,Luxury,156462,140815,172108,4.8,95,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+473,Thiruvananthapuram Luxury Makeup 473,Makeup,Thiruvananthapuram,Luxury,12121,10908,13333,3.1,177,,Thiruvananthapuram,Unverified,False,False
+474,Alappuzha Luxury Photography 474,Photography,Alappuzha,Luxury,26582,23923,29240,4.1,245,,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+475,Delhi Minimalist Music 475,Music,Delhi,Minimalist,27097,24387,29806,3.8,21,,Delhi,Unverified,False,False
+476,Chennai Traditional Catering 476,Catering,Chennai,Traditional,192178,172960,211395,3.4,18,,Chennai,Unverified,False,False
+477,Mysuru Traditional Decoration 477,Decoration,Mysuru,Traditional,52290,47061,57519,3.9,424,,Mysuru,Unverified,False,False
+478,Kottayam Modern Makeup 478,Makeup,Kottayam,Modern,32742,29467,36016,4.2,139,,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+479,Kollam Minimalist Music 479,Music,Kollam,Minimalist,23445,21100,25789,3.7,259,,Kollam,Unverified,False,False
+480,Palakkad Minimalist Photography 480,Photography,Palakkad,Minimalist,116485,104836,128133,4.9,110,,"Palakkad, Coimbatore",Unverified,False,False
+481,Palakkad Traditional Venue 481,Venue,Palakkad,Traditional,182334,164100,200567,3.2,466,126.0,"Palakkad, Coimbatore",Unverified,False,False
+482,Pathanamthitta Luxury Venue 482,Venue,Pathanamthitta,Luxury,119320,107388,131252,3.5,19,847.0,Pathanamthitta,Unverified,False,False
+483,Hyderabad Minimalist Venue 483,Venue,Hyderabad,Minimalist,177183,159464,194901,3.3,1,1487.0,Hyderabad,Unverified,False,False
+484,Coimbatore Traditional Venue 484,Venue,Coimbatore,Traditional,97704,87933,107474,4.8,77,130.0,"Coimbatore, Palakkad",Unverified,False,False
+485,Kasaragod Modern Music 485,Music,Kasaragod,Modern,15875,14287,17462,3.5,202,,Kasaragod,Unverified,False,False
+486,Munnar Traditional Makeup 486,Makeup,Munnar,Traditional,16603,14942,18263,4.4,429,,Munnar,Unverified,False,False
+487,Thekkady Traditional Music 487,Music,Thekkady,Traditional,34339,30905,37772,3.4,98,,Thekkady,Unverified,False,False
+488,Thekkady Luxury Photography 488,Photography,Thekkady,Luxury,49967,44970,54963,4.5,260,,Thekkady,Unverified,False,False
+489,Kasaragod Luxury Photography 489,Photography,Kasaragod,Luxury,99229,89306,109151,4.2,130,,Kasaragod,Unverified,False,False
+490,Kannur Minimalist Catering 490,Catering,Kannur,Minimalist,148446,133601,163290,4.5,208,,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+491,Kolkata Luxury Decoration 491,Decoration,Kolkata,Luxury,19173,17255,21090,4.8,256,,Kolkata,Unverified,False,False
+492,Bengaluru Modern Decoration 492,Decoration,Bengaluru,Modern,91102,81991,100212,4.9,433,,Bengaluru,Unverified,False,False
+493,Kochi Traditional Catering 493,Catering,Kochi,Traditional,29482,26533,32430,4.1,220,,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+494,Kottayam Traditional Catering 494,Catering,Kottayam,Traditional,96718,87046,106389,3.6,415,,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+495,Munnar Luxury Makeup 495,Makeup,Munnar,Luxury,28423,25580,31265,3.5,149,,Munnar,Unverified,False,False
+496,Kasaragod Traditional Venue 496,Venue,Kasaragod,Traditional,119411,107469,131352,5.0,373,1338.0,Kasaragod,Unverified,False,False
+497,Mysuru Minimalist Catering 497,Catering,Mysuru,Minimalist,19342,17407,21276,4.0,467,,Mysuru,Unverified,False,False
+498,Kolkata Modern Venue 498,Venue,Kolkata,Modern,74101,66690,81511,4.7,403,365.0,Kolkata,Unverified,False,False
+499,Pune Modern Music 499,Music,Pune,Modern,13980,12582,15378,4.1,12,,Pune,Unverified,False,False
+500,Palakkad Luxury Decoration 500,Decoration,Palakkad,Luxury,32562,29305,35818,3.7,20,,"Palakkad, Coimbatore",Unverified,False,False
+501,Thekkady Traditional Photography 501,Photography,Thekkady,Traditional,46881,42192,51569,3.1,328,,Thekkady,Unverified,False,False
+502,Kolkata Traditional Music 502,Music,Kolkata,Traditional,18725,16852,20597,4.4,151,,Kolkata,Unverified,False,False
+503,Wayanad Traditional Music 503,Music,Wayanad,Traditional,6687,6018,7355,4.2,208,,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+504,Thekkady Luxury Catering 504,Catering,Thekkady,Luxury,194758,175282,214233,4.8,122,,Thekkady,Unverified,False,False
+505,Kollam Luxury Catering 505,Catering,Kollam,Luxury,109458,98512,120403,4.4,47,,Kollam,Unverified,False,False
+506,Munnar Luxury Music 506,Music,Munnar,Luxury,16935,15241,18628,4.3,215,,Munnar,Unverified,False,False
+507,Mysuru Luxury Photography 507,Photography,Mysuru,Luxury,34793,31313,38272,4.0,344,,Mysuru,Unverified,False,False
+508,Mumbai Luxury Venue 508,Venue,Mumbai,Luxury,240889,216800,264977,3.1,484,1270.0,Mumbai,Unverified,False,False
+509,Kochi Modern Catering 509,Catering,Kochi,Modern,31919,28727,35110,3.3,387,,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+510,Coimbatore Modern Music 510,Music,Coimbatore,Modern,8849,7964,9733,3.7,223,,"Coimbatore, Palakkad",Unverified,False,False
+511,Munnar Modern Photography 511,Photography,Munnar,Modern,113533,102179,124886,4.8,13,,Munnar,Unverified,False,False
+512,Palakkad Traditional Music 512,Music,Palakkad,Traditional,30785,27706,33863,3.1,352,,"Palakkad, Coimbatore",Unverified,False,False
+513,Hyderabad Traditional Catering 513,Catering,Hyderabad,Traditional,142605,128344,156865,3.7,428,,Hyderabad,Unverified,False,False
+514,Kochi Luxury Catering 514,Catering,Kochi,Luxury,103719,93347,114090,4.2,480,,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+515,Kasaragod Modern Makeup 515,Makeup,Kasaragod,Modern,39581,35622,43539,4.3,103,,Kasaragod,Unverified,False,False
+516,Malappuram Traditional Music 516,Music,Malappuram,Traditional,27578,24820,30335,3.1,343,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+517,Bengaluru Modern Catering 517,Catering,Bengaluru,Modern,158131,142317,173944,4.9,258,,Bengaluru,Unverified,False,False
+518,Thekkady Luxury Makeup 518,Makeup,Thekkady,Luxury,32495,29245,35744,4.6,104,,Thekkady,Unverified,False,False
+519,Palakkad Traditional Makeup 519,Makeup,Palakkad,Traditional,9446,8501,10390,3.8,392,,"Palakkad, Coimbatore",Unverified,False,False
+520,Thrissur Minimalist Catering 520,Catering,Thrissur,Minimalist,23201,20880,25521,4.3,99,,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+521,Palakkad Minimalist Venue 521,Venue,Palakkad,Minimalist,102802,92521,113082,3.4,226,176.0,"Palakkad, Coimbatore",Unverified,False,False
+522,Kochi Minimalist Photography 522,Photography,Kochi,Minimalist,24547,22092,27001,4.0,189,,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+523,Thrissur Minimalist Catering 523,Catering,Thrissur,Minimalist,69259,62333,76184,3.8,130,,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+524,Chennai Traditional Decoration 524,Decoration,Chennai,Traditional,43688,39319,48056,4.6,20,,Chennai,Unverified,False,False
+525,Delhi Luxury Venue 525,Venue,Delhi,Luxury,163771,147393,180148,4.5,29,294.0,Delhi,Unverified,False,False
+526,Pune Luxury Catering 526,Catering,Pune,Luxury,96547,86892,106201,5.0,139,,Pune,Unverified,False,False
+527,Mysuru Minimalist Music 527,Music,Mysuru,Minimalist,41207,37086,45327,3.4,493,,Mysuru,Unverified,False,False
+528,Thiruvananthapuram Modern Decoration 528,Decoration,Thiruvananthapuram,Modern,102672,92404,112939,3.9,283,,Thiruvananthapuram,Unverified,False,False
+529,Kannur Traditional Photography 529,Photography,Kannur,Traditional,21171,19053,23288,4.6,221,,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+530,Pune Traditional Makeup 530,Makeup,Pune,Traditional,4930,4437,5423,4.4,131,,Pune,Unverified,False,False
+531,Palakkad Luxury Makeup 531,Makeup,Palakkad,Luxury,14238,12814,15661,3.0,435,,"Palakkad, Coimbatore",Unverified,False,False
+532,Bengaluru Modern Makeup 532,Makeup,Bengaluru,Modern,25368,22831,27904,4.2,414,,Bengaluru,Unverified,False,False
+533,Kochi Luxury Decoration 533,Decoration,Kochi,Luxury,101922,91729,112114,3.1,50,,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+534,Pathanamthitta Traditional Photography 534,Photography,Pathanamthitta,Traditional,25665,23098,28231,3.2,105,,Pathanamthitta,Unverified,False,False
+535,Thrissur Minimalist Catering 535,Catering,Thrissur,Minimalist,135156,121640,148671,3.4,138,,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+536,Delhi Minimalist Photography 536,Photography,Delhi,Minimalist,53064,47757,58370,4.4,427,,Delhi,Unverified,False,False
+537,Kozhikode Modern Venue 537,Venue,Kozhikode,Modern,190123,171110,209135,4.7,130,480.0,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+538,Kolkata Luxury Makeup 538,Makeup,Kolkata,Luxury,33412,30070,36753,4.3,182,,Kolkata,Unverified,False,False
+539,Munnar Modern Decoration 539,Decoration,Munnar,Modern,45165,40648,49681,3.6,137,,Munnar,Unverified,False,False
+540,Kollam Minimalist Music 540,Music,Kollam,Minimalist,23187,20868,25505,4.2,139,,Kollam,Unverified,False,False
+541,Kolkata Traditional Decoration 541,Decoration,Kolkata,Traditional,102179,91961,112396,4.7,264,,Kolkata,Unverified,False,False
+542,Thrissur Minimalist Music 542,Music,Thrissur,Minimalist,9671,8703,10638,4.8,12,,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+543,Malappuram Luxury Venue 543,Venue,Malappuram,Luxury,86962,78265,95658,4.0,375,808.0,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+544,Coimbatore Traditional Music 544,Music,Coimbatore,Traditional,34171,30753,37588,3.5,153,,"Coimbatore, Palakkad",Unverified,False,False
+545,Kasaragod Modern Photography 545,Photography,Kasaragod,Modern,17612,15850,19373,4.6,149,,Kasaragod,Unverified,False,False
+546,Thekkady Luxury Decoration 546,Decoration,Thekkady,Luxury,88387,79548,97225,4.8,438,,Thekkady,Unverified,False,False
+547,Delhi Minimalist Catering 547,Catering,Delhi,Minimalist,90229,81206,99251,4.2,8,,Delhi,Unverified,False,False
+548,Thrissur Luxury Decoration 548,Decoration,Thrissur,Luxury,111801,100620,122981,4.6,124,,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+549,Thekkady Luxury Makeup 549,Makeup,Thekkady,Luxury,26092,23482,28701,4.5,449,,Thekkady,Unverified,False,False
+550,Wayanad Modern Makeup 550,Makeup,Wayanad,Modern,24014,21612,26415,4.0,230,,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+551,Thekkady Minimalist Venue 551,Venue,Thekkady,Minimalist,132932,119638,146225,4.9,38,1305.0,Thekkady,Unverified,False,False
+552,Kottayam Traditional Decoration 552,Decoration,Kottayam,Traditional,26486,23837,29134,3.4,474,,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+553,Kollam Traditional Photography 553,Photography,Kollam,Traditional,81998,73798,90197,3.3,192,,Kollam,Unverified,False,False
+554,Hyderabad Traditional Music 554,Music,Hyderabad,Traditional,47271,42543,51998,5.0,489,,Hyderabad,Unverified,False,False
+555,Pathanamthitta Minimalist Photography 555,Photography,Pathanamthitta,Minimalist,70791,63711,77870,4.1,151,,Pathanamthitta,Unverified,False,False
+556,Pathanamthitta Traditional Photography 556,Photography,Pathanamthitta,Traditional,51739,46565,56912,4.0,351,,Pathanamthitta,Unverified,False,False
+557,Kozhikode Traditional Music 557,Music,Kozhikode,Traditional,33836,30452,37219,3.2,422,,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+558,Coimbatore Luxury Music 558,Music,Coimbatore,Luxury,39884,35895,43872,3.5,337,,"Coimbatore, Palakkad",Unverified,False,False
+559,Chennai Modern Catering 559,Catering,Chennai,Modern,197841,178056,217625,3.2,499,,Chennai,Unverified,False,False
+560,Kozhikode Minimalist Photography 560,Photography,Kozhikode,Minimalist,118025,106222,129827,4.6,265,,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+561,Malappuram Luxury Music 561,Music,Malappuram,Luxury,59148,53233,65062,3.2,252,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+562,Thekkady Luxury Photography 562,Photography,Thekkady,Luxury,46492,41842,51141,4.1,203,,Thekkady,Unverified,False,False
+563,Coimbatore Luxury Makeup 563,Makeup,Coimbatore,Luxury,20152,18136,22167,3.1,221,,"Coimbatore, Palakkad",Unverified,False,False
+564,Kolkata Luxury Music 564,Music,Kolkata,Luxury,7525,6772,8277,4.0,197,,Kolkata,Unverified,False,False
+565,Wayanad Modern Music 565,Music,Wayanad,Modern,26827,24144,29509,4.2,304,,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+566,Alappuzha Modern Venue 566,Venue,Alappuzha,Modern,247314,222582,272045,3.5,489,365.0,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+567,Pune Traditional Photography 567,Photography,Pune,Traditional,19056,17150,20961,4.2,469,,Pune,Unverified,False,False
+568,Alappuzha Traditional Decoration 568,Decoration,Alappuzha,Traditional,30018,27016,33019,4.6,356,,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+569,Palakkad Minimalist Photography 569,Photography,Palakkad,Minimalist,53926,48533,59318,4.5,37,,"Palakkad, Coimbatore",Unverified,False,False
+570,Delhi Modern Makeup 570,Makeup,Delhi,Modern,13827,12444,15209,3.5,288,,Delhi,Unverified,False,False
+571,Delhi Traditional Music 571,Music,Delhi,Traditional,25472,22924,28019,4.4,285,,Delhi,Unverified,False,False
+572,Kasaragod Luxury Makeup 572,Makeup,Kasaragod,Luxury,24556,22100,27011,4.1,423,,Kasaragod,Unverified,False,False
+573,Munnar Luxury Photography 573,Photography,Munnar,Luxury,77915,70123,85706,3.4,79,,Munnar,Unverified,False,False
+574,Mumbai Modern Decoration 574,Decoration,Mumbai,Modern,37849,34064,41633,3.7,227,,Mumbai,Unverified,False,False
+575,Thekkady Traditional Photography 575,Photography,Thekkady,Traditional,56402,50761,62042,4.0,382,,Thekkady,Unverified,False,False
+576,Pune Luxury Photography 576,Photography,Pune,Luxury,74079,66671,81486,3.5,74,,Pune,Unverified,False,False
+577,Alappuzha Modern Decoration 577,Decoration,Alappuzha,Modern,89283,80354,98211,4.3,132,,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+578,Kochi Luxury Photography 578,Photography,Kochi,Luxury,78857,70971,86742,4.4,482,,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+579,Kottayam Minimalist Catering 579,Catering,Kottayam,Minimalist,165249,148724,181773,4.5,42,,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+580,Thiruvananthapuram Traditional Catering 580,Catering,Thiruvananthapuram,Traditional,110203,99182,121223,3.6,71,,Thiruvananthapuram,Unverified,False,False
+581,Delhi Luxury Makeup 581,Makeup,Delhi,Luxury,20894,18804,22983,4.4,379,,Delhi,Unverified,False,False
+582,Kozhikode Minimalist Music 582,Music,Kozhikode,Minimalist,13431,12087,14774,3.8,476,,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+583,Mumbai Luxury Decoration 583,Decoration,Mumbai,Luxury,24860,22374,27346,4.0,431,,Mumbai,Unverified,False,False
+584,Kannur Luxury Catering 584,Catering,Kannur,Luxury,131707,118536,144877,3.1,244,,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+585,Kolkata Traditional Decoration 585,Decoration,Kolkata,Traditional,28798,25918,31677,4.2,108,,Kolkata,Unverified,False,False
+586,Chennai Minimalist Decoration 586,Decoration,Chennai,Minimalist,42860,38574,47146,4.8,181,,Chennai,Unverified,False,False
+587,Mysuru Modern Decoration 587,Decoration,Mysuru,Modern,27986,25187,30784,4.2,19,,Mysuru,Unverified,False,False
+588,Hyderabad Modern Decoration 588,Decoration,Hyderabad,Modern,29679,26711,32646,3.5,155,,Hyderabad,Unverified,False,False
+589,Kottayam Minimalist Makeup 589,Makeup,Kottayam,Minimalist,13974,12576,15371,4.0,453,,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+590,Palakkad Luxury Decoration 590,Decoration,Palakkad,Luxury,83649,75284,92013,4.7,41,,"Palakkad, Coimbatore",Unverified,False,False
+591,Kollam Luxury Decoration 591,Decoration,Kollam,Luxury,118025,106222,129827,4.1,434,,Kollam,Unverified,False,False
+592,Pathanamthitta Traditional Venue 592,Venue,Pathanamthitta,Traditional,120788,108709,132866,4.8,197,1104.0,Pathanamthitta,Unverified,False,False
+593,Chennai Modern Photography 593,Photography,Chennai,Modern,103917,93525,114308,4.6,390,,Chennai,Unverified,False,False
+594,Mysuru Luxury Decoration 594,Decoration,Mysuru,Luxury,29731,26757,32704,3.3,85,,Mysuru,Unverified,False,False
+595,Chennai Luxury Makeup 595,Makeup,Chennai,Luxury,25537,22983,28090,3.4,320,,Chennai,Unverified,False,False
+596,Thrissur Luxury Catering 596,Catering,Thrissur,Luxury,70965,63868,78061,3.6,21,,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+597,Hyderabad Modern Decoration 597,Decoration,Hyderabad,Modern,12345,11110,13579,4.3,259,,Hyderabad,Unverified,False,False
+598,Kottayam Luxury Makeup 598,Makeup,Kottayam,Luxury,38334,34500,42167,4.7,93,,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+599,Thiruvananthapuram Traditional Photography 599,Photography,Thiruvananthapuram,Traditional,88772,79894,97649,3.6,487,,Thiruvananthapuram,Unverified,False,False
+600,Chennai Traditional Decoration 600,Decoration,Chennai,Traditional,123713,111341,136084,4.1,45,,Chennai,Unverified,False,False
+601,Pathanamthitta Minimalist Music 601,Music,Pathanamthitta,Minimalist,31510,28359,34661,4.9,488,,Pathanamthitta,Unverified,False,False
+602,Bengaluru Minimalist Music 602,Music,Bengaluru,Minimalist,24188,21769,26606,3.2,193,,Bengaluru,Unverified,False,False
+603,Bengaluru Traditional Decoration 603,Decoration,Bengaluru,Traditional,14273,12845,15700,4.5,391,,Bengaluru,Unverified,False,False
+604,Pune Luxury Decoration 604,Decoration,Pune,Luxury,23660,21294,26026,4.7,413,,Pune,Unverified,False,False
+605,Kasaragod Luxury Venue 605,Venue,Kasaragod,Luxury,245771,221193,270348,3.2,36,1169.0,Kasaragod,Unverified,False,False
+606,Mysuru Minimalist Venue 606,Venue,Mysuru,Minimalist,149060,134154,163966,4.9,481,229.0,Mysuru,Unverified,False,False
+607,Kannur Modern Music 607,Music,Kannur,Modern,51548,46393,56702,4.4,271,,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+608,Pathanamthitta Minimalist Catering 608,Catering,Pathanamthitta,Minimalist,186627,167964,205289,3.1,308,,Pathanamthitta,Unverified,False,False
+609,Kasaragod Luxury Catering 609,Catering,Kasaragod,Luxury,120704,108633,132774,4.4,348,,Kasaragod,Unverified,False,False
+610,Pathanamthitta Traditional Catering 610,Catering,Pathanamthitta,Traditional,68172,61354,74989,3.6,249,,Pathanamthitta,Unverified,False,False
+611,Thiruvananthapuram Modern Photography 611,Photography,Thiruvananthapuram,Modern,38544,34689,42398,3.7,116,,Thiruvananthapuram,Unverified,False,False
+612,Pathanamthitta Traditional Music 612,Music,Pathanamthitta,Traditional,29688,26719,32656,3.9,280,,Pathanamthitta,Unverified,False,False
+613,Kochi Modern Photography 613,Photography,Kochi,Modern,91301,82170,100431,3.9,170,,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+614,Hyderabad Modern Music 614,Music,Hyderabad,Modern,12337,11103,13570,3.5,485,,Hyderabad,Unverified,False,False
+615,Hyderabad Minimalist Music 615,Music,Hyderabad,Minimalist,52515,47263,57766,5.0,384,,Hyderabad,Unverified,False,False
+616,Kozhikode Luxury Decoration 616,Decoration,Kozhikode,Luxury,108517,97665,119368,3.7,219,,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+617,Kasaragod Minimalist Decoration 617,Decoration,Kasaragod,Minimalist,28202,25381,31022,3.0,377,,Kasaragod,Unverified,False,False
+618,Kolkata Modern Photography 618,Photography,Kolkata,Modern,55174,49656,60691,5.0,400,,Kolkata,Unverified,False,False
+619,Wayanad Minimalist Venue 619,Venue,Wayanad,Minimalist,118967,107070,130863,3.6,275,396.0,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+620,Alappuzha Minimalist Music 620,Music,Alappuzha,Minimalist,16476,14828,18123,4.4,78,,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+621,Coimbatore Luxury Venue 621,Venue,Coimbatore,Luxury,42539,38285,46792,4.4,331,1014.0,"Coimbatore, Palakkad",Unverified,False,False
+622,Mumbai Luxury Decoration 622,Decoration,Mumbai,Luxury,111190,100071,122309,4.2,382,,Mumbai,Unverified,False,False
+623,Kannur Modern Decoration 623,Decoration,Kannur,Modern,94739,85265,104212,3.0,483,,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+624,Pune Modern Catering 624,Catering,Pune,Modern,31157,28041,34272,3.7,16,,Pune,Unverified,False,False
+625,Malappuram Modern Photography 625,Photography,Malappuram,Modern,74156,66740,81571,4.6,348,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+626,Kolkata Minimalist Photography 626,Photography,Kolkata,Minimalist,51001,45900,56101,4.9,274,,Kolkata,Unverified,False,False
+627,Thekkady Modern Decoration 627,Decoration,Thekkady,Modern,58993,53093,64892,4.5,74,,Thekkady,Unverified,False,False
+628,Kannur Traditional Decoration 628,Decoration,Kannur,Traditional,127838,115054,140621,3.1,187,,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+629,Kasaragod Modern Makeup 629,Makeup,Kasaragod,Modern,27107,24396,29817,4.6,336,,Kasaragod,Unverified,False,False
+630,Thiruvananthapuram Luxury Catering 630,Catering,Thiruvananthapuram,Luxury,145323,130790,159855,3.6,280,,Thiruvananthapuram,Unverified,False,False
+631,Coimbatore Minimalist Decoration 631,Decoration,Coimbatore,Minimalist,59280,53352,65208,4.4,322,,"Coimbatore, Palakkad",Unverified,False,False
+632,Coimbatore Luxury Music 632,Music,Coimbatore,Luxury,44900,40410,49390,3.4,106,,"Coimbatore, Palakkad",Unverified,False,False
+633,Kolkata Traditional Venue 633,Venue,Kolkata,Traditional,170932,153838,188025,3.4,295,1235.0,Kolkata,Unverified,False,False
+634,Coimbatore Modern Decoration 634,Decoration,Coimbatore,Modern,80282,72253,88310,4.0,340,,"Coimbatore, Palakkad",Unverified,False,False
+635,Kochi Traditional Photography 635,Photography,Kochi,Traditional,111696,100526,122865,4.2,307,,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+636,Alappuzha Minimalist Decoration 636,Decoration,Alappuzha,Minimalist,83379,75041,91716,4.6,422,,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+637,Kochi Minimalist Catering 637,Catering,Kochi,Minimalist,43836,39452,48219,3.9,355,,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+638,Kottayam Minimalist Decoration 638,Decoration,Kottayam,Minimalist,120402,108361,132442,5.0,318,,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+639,Wayanad Modern Music 639,Music,Wayanad,Modern,26925,24232,29617,3.4,51,,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+640,Munnar Modern Makeup 640,Makeup,Munnar,Modern,25014,22512,27515,4.3,323,,Munnar,Unverified,False,False
+641,Malappuram Traditional Music 641,Music,Malappuram,Traditional,42630,38367,46893,3.5,20,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+642,Kottayam Traditional Photography 642,Photography,Kottayam,Traditional,36622,32959,40284,3.4,213,,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+643,Delhi Modern Music 643,Music,Delhi,Modern,35173,31655,38690,5.0,384,,Delhi,Unverified,False,False
+644,Chennai Luxury Photography 644,Photography,Chennai,Luxury,105157,94641,115672,3.3,408,,Chennai,Unverified,False,False
+645,Kozhikode Traditional Photography 645,Photography,Kozhikode,Traditional,102790,92511,113069,3.9,365,,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+646,Pathanamthitta Modern Makeup 646,Makeup,Pathanamthitta,Modern,39024,35121,42926,3.5,403,,Pathanamthitta,Unverified,False,False
+647,Kochi Traditional Makeup 647,Makeup,Kochi,Traditional,4693,4223,5162,3.8,82,,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+648,Mumbai Modern Photography 648,Photography,Mumbai,Modern,18387,16548,20225,4.6,61,,Mumbai,Unverified,False,False
+649,Delhi Minimalist Photography 649,Photography,Delhi,Minimalist,103222,92899,113544,3.4,443,,Delhi,Unverified,False,False
+650,Alappuzha Modern Catering 650,Catering,Alappuzha,Modern,58908,53017,64798,3.6,348,,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+651,Kollam Minimalist Music 651,Music,Kollam,Minimalist,24983,22484,27481,4.8,403,,Kollam,Unverified,False,False
+652,Kollam Minimalist Venue 652,Venue,Kollam,Minimalist,198418,178576,218259,4.3,8,1356.0,Kollam,Unverified,False,False
+653,Malappuram Minimalist Photography 653,Photography,Malappuram,Minimalist,12213,10991,13434,4.5,364,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+654,Alappuzha Modern Photography 654,Photography,Alappuzha,Modern,111936,100742,123129,3.6,3,,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+655,Kasaragod Modern Decoration 655,Decoration,Kasaragod,Modern,145899,131309,160488,3.1,385,,Kasaragod,Unverified,False,False
+656,Malappuram Modern Photography 656,Photography,Malappuram,Modern,101121,91008,111233,3.0,168,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+657,Kochi Traditional Photography 657,Photography,Kochi,Traditional,117191,105471,128910,4.8,327,,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+658,Pune Luxury Music 658,Music,Pune,Luxury,44801,40320,49281,3.5,97,,Pune,Unverified,False,False
+659,Kozhikode Modern Music 659,Music,Kozhikode,Modern,22142,19927,24356,4.0,409,,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+660,Mumbai Traditional Catering 660,Catering,Mumbai,Traditional,194128,174715,213540,3.3,185,,Mumbai,Unverified,False,False
+661,Thiruvananthapuram Modern Catering 661,Catering,Thiruvananthapuram,Modern,179030,161127,196933,3.5,456,,Thiruvananthapuram,Unverified,False,False
+662,Kochi Traditional Venue 662,Venue,Kochi,Traditional,175905,158314,193495,4.7,487,277.0,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+663,Kozhikode Minimalist Music 663,Music,Kozhikode,Minimalist,50129,45116,55141,4.4,315,,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+664,Coimbatore Minimalist Venue 664,Venue,Coimbatore,Minimalist,136429,122786,150071,4.1,22,1373.0,"Coimbatore, Palakkad",Unverified,False,False
+665,Thrissur Minimalist Photography 665,Photography,Thrissur,Minimalist,46119,41507,50730,4.3,70,,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+666,Palakkad Modern Music 666,Music,Palakkad,Modern,37839,34055,41622,4.4,208,,"Palakkad, Coimbatore",Unverified,False,False
+667,Thiruvananthapuram Traditional Venue 667,Venue,Thiruvananthapuram,Traditional,234920,211428,258412,3.2,154,203.0,Thiruvananthapuram,Unverified,False,False
+668,Bengaluru Luxury Makeup 668,Makeup,Bengaluru,Luxury,32362,29125,35598,4.4,326,,Bengaluru,Unverified,False,False
+669,Pathanamthitta Modern Music 669,Music,Pathanamthitta,Modern,17917,16125,19708,4.3,46,,Pathanamthitta,Unverified,False,False
+670,Thekkady Luxury Makeup 670,Makeup,Thekkady,Luxury,36368,32731,40004,3.8,3,,Thekkady,Unverified,False,False
+671,Wayanad Modern Catering 671,Catering,Wayanad,Modern,143973,129575,158370,4.6,423,,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+672,Pune Minimalist Music 672,Music,Pune,Minimalist,11538,10384,12691,4.7,463,,Pune,Unverified,False,False
+673,Thekkady Minimalist Makeup 673,Makeup,Thekkady,Minimalist,21000,18900,23100,4.5,413,,Thekkady,Unverified,False,False
+674,Kozhikode Modern Venue 674,Venue,Kozhikode,Modern,148276,133448,163103,4.0,206,827.0,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+675,Wayanad Minimalist Music 675,Music,Wayanad,Minimalist,24558,22102,27013,4.7,175,,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+676,Mysuru Traditional Makeup 676,Makeup,Mysuru,Traditional,17299,15569,19028,3.7,343,,Mysuru,Unverified,False,False
+677,Thrissur Minimalist Decoration 677,Decoration,Thrissur,Minimalist,129871,116883,142858,3.8,188,,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+678,Delhi Modern Venue 678,Venue,Delhi,Modern,227602,204841,250362,4.9,427,685.0,Delhi,Unverified,False,False
+679,Malappuram Modern Makeup 679,Makeup,Malappuram,Modern,25805,23224,28385,4.7,175,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+680,Mumbai Minimalist Venue 680,Venue,Mumbai,Minimalist,162732,146458,179005,4.8,323,62.0,Mumbai,Unverified,False,False
+681,Kolkata Traditional Catering 681,Catering,Kolkata,Traditional,194169,174752,213585,4.6,354,,Kolkata,Unverified,False,False
+682,Kolkata Minimalist Venue 682,Venue,Kolkata,Minimalist,234466,211019,257912,3.4,7,379.0,Kolkata,Unverified,False,False
+683,Kolkata Traditional Decoration 683,Decoration,Kolkata,Traditional,131271,118143,144398,4.6,250,,Kolkata,Unverified,False,False
+684,Hyderabad Traditional Venue 684,Venue,Hyderabad,Traditional,189791,170811,208770,3.7,211,953.0,Hyderabad,Unverified,False,False
+685,Chennai Modern Makeup 685,Makeup,Chennai,Modern,7188,6469,7906,4.0,295,,Chennai,Unverified,False,False
+686,Chennai Luxury Makeup 686,Makeup,Chennai,Luxury,7283,6554,8011,4.7,477,,Chennai,Unverified,False,False
+687,Mumbai Minimalist Decoration 687,Decoration,Mumbai,Minimalist,15128,13615,16640,5.0,318,,Mumbai,Unverified,False,False
+688,Hyderabad Minimalist Catering 688,Catering,Hyderabad,Minimalist,107647,96882,118411,4.3,191,,Hyderabad,Unverified,False,False
+689,Kozhikode Luxury Decoration 689,Decoration,Kozhikode,Luxury,51753,46577,56928,3.9,203,,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+690,Mumbai Minimalist Catering 690,Catering,Mumbai,Minimalist,94948,85453,104442,4.9,226,,Mumbai,Unverified,False,False
+691,Kasaragod Luxury Decoration 691,Decoration,Kasaragod,Luxury,16874,15186,18561,3.1,358,,Kasaragod,Unverified,False,False
+692,Pathanamthitta Modern Catering 692,Catering,Pathanamthitta,Modern,67343,60608,74077,4.5,339,,Pathanamthitta,Unverified,False,False
+693,Kottayam Traditional Music 693,Music,Kottayam,Traditional,35080,31572,38588,4.2,406,,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+694,Kasaragod Traditional Makeup 694,Makeup,Kasaragod,Traditional,14328,12895,15760,3.8,79,,Kasaragod,Unverified,False,False
+695,Thrissur Modern Makeup 695,Makeup,Thrissur,Modern,30440,27396,33484,4.7,159,,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+696,Hyderabad Minimalist Photography 696,Photography,Hyderabad,Minimalist,91273,82145,100400,4.7,168,,Hyderabad,Unverified,False,False
+697,Kozhikode Traditional Makeup 697,Makeup,Kozhikode,Traditional,10430,9387,11473,3.9,180,,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+698,Malappuram Traditional Decoration 698,Decoration,Malappuram,Traditional,109137,98223,120050,3.4,163,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+699,Kasaragod Traditional Makeup 699,Makeup,Kasaragod,Traditional,12353,11117,13588,3.2,473,,Kasaragod,Unverified,False,False
+700,Munnar Modern Music 700,Music,Munnar,Modern,41316,37184,45447,4.5,30,,Munnar,Unverified,False,False
+701,Thekkady Luxury Catering 701,Catering,Thekkady,Luxury,156483,140834,172131,4.7,65,,Thekkady,Unverified,False,False
+702,Chennai Minimalist Venue 702,Venue,Chennai,Minimalist,156459,140813,172104,4.8,73,381.0,Chennai,Unverified,False,False
+703,Malappuram Modern Photography 703,Photography,Malappuram,Modern,16385,14746,18023,4.9,481,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+704,Kolkata Traditional Catering 704,Catering,Kolkata,Traditional,40910,36819,45001,3.1,150,,Kolkata,Unverified,False,False
+705,Malappuram Modern Photography 705,Photography,Malappuram,Modern,71398,64258,78537,4.5,369,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+706,Delhi Traditional Photography 706,Photography,Delhi,Traditional,36425,32782,40067,5.0,480,,Delhi,Unverified,False,False
+707,Palakkad Traditional Decoration 707,Decoration,Palakkad,Traditional,64016,57614,70417,3.8,476,,"Palakkad, Coimbatore",Unverified,False,False
+708,Delhi Modern Venue 708,Venue,Delhi,Modern,67993,61193,74792,4.0,325,906.0,Delhi,Unverified,False,False
+709,Palakkad Modern Photography 709,Photography,Palakkad,Modern,69193,62273,76112,5.0,315,,"Palakkad, Coimbatore",Unverified,False,False
+710,Thrissur Modern Photography 710,Photography,Thrissur,Modern,74099,66689,81508,3.6,441,,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+711,Thrissur Traditional Photography 711,Photography,Thrissur,Traditional,101571,91413,111728,3.9,245,,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+712,Coimbatore Luxury Catering 712,Catering,Coimbatore,Luxury,35529,31976,39081,3.0,72,,"Coimbatore, Palakkad",Unverified,False,False
+713,Thekkady Modern Music 713,Music,Thekkady,Modern,16569,14912,18225,3.7,80,,Thekkady,Unverified,False,False
+714,Chennai Modern Makeup 714,Makeup,Chennai,Modern,37708,33937,41478,3.1,25,,Chennai,Unverified,False,False
+715,Kolkata Minimalist Makeup 715,Makeup,Kolkata,Minimalist,36727,33054,40399,4.8,161,,Kolkata,Unverified,False,False
+716,Malappuram Luxury Catering 716,Catering,Malappuram,Luxury,25128,22615,27640,3.2,16,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+717,Alappuzha Modern Venue 717,Venue,Alappuzha,Modern,94550,85095,104005,3.2,431,1318.0,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+718,Malappuram Minimalist Catering 718,Catering,Malappuram,Minimalist,28045,25240,30849,4.5,89,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+719,Coimbatore Minimalist Photography 719,Photography,Coimbatore,Minimalist,101698,91528,111867,4.6,397,,"Coimbatore, Palakkad",Unverified,False,False
+720,Malappuram Minimalist Venue 720,Venue,Malappuram,Minimalist,74639,67175,82102,3.2,422,281.0,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+721,Kolkata Luxury Decoration 721,Decoration,Kolkata,Luxury,17305,15574,19035,4.6,155,,Kolkata,Unverified,False,False
+722,Coimbatore Traditional Decoration 722,Decoration,Coimbatore,Traditional,131415,118273,144556,4.5,398,,"Coimbatore, Palakkad",Unverified,False,False
+723,Thekkady Modern Venue 723,Venue,Thekkady,Modern,94323,84890,103755,3.1,279,61.0,Thekkady,Unverified,False,False
+724,Thekkady Modern Decoration 724,Decoration,Thekkady,Modern,129321,116388,142253,3.5,455,,Thekkady,Unverified,False,False
+725,Malappuram Modern Makeup 725,Makeup,Malappuram,Modern,39993,35993,43992,4.2,291,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+726,Kottayam Luxury Venue 726,Venue,Kottayam,Luxury,241689,217520,265857,4.0,360,1132.0,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+727,Munnar Traditional Makeup 727,Makeup,Munnar,Traditional,21044,18939,23148,3.0,381,,Munnar,Unverified,False,False
+728,Mysuru Minimalist Venue 728,Venue,Mysuru,Minimalist,225084,202575,247592,3.0,258,859.0,Mysuru,Unverified,False,False
+729,Kannur Minimalist Photography 729,Photography,Kannur,Minimalist,74152,66736,81567,4.8,446,,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+730,Alappuzha Modern Makeup 730,Makeup,Alappuzha,Modern,17065,15358,18771,3.4,383,,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+731,Alappuzha Traditional Catering 731,Catering,Alappuzha,Traditional,165892,149302,182481,4.3,211,,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+732,Kozhikode Minimalist Photography 732,Photography,Kozhikode,Minimalist,61108,54997,67218,3.4,205,,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+733,Kasaragod Modern Makeup 733,Makeup,Kasaragod,Modern,14502,13051,15952,4.9,43,,Kasaragod,Unverified,False,False
+734,Alappuzha Luxury Catering 734,Catering,Alappuzha,Luxury,143899,129509,158288,3.8,277,,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+735,Kollam Traditional Catering 735,Catering,Kollam,Traditional,64349,57914,70783,4.0,300,,Kollam,Unverified,False,False
+736,Malappuram Traditional Photography 736,Photography,Malappuram,Traditional,57197,51477,62916,4.2,13,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+737,Kollam Modern Makeup 737,Makeup,Kollam,Modern,10747,9672,11821,3.9,3,,Kollam,Unverified,False,False
+738,Coimbatore Traditional Music 738,Music,Coimbatore,Traditional,35627,32064,39189,3.5,270,,"Coimbatore, Palakkad",Unverified,False,False
+739,Palakkad Traditional Venue 739,Venue,Palakkad,Traditional,50786,45707,55864,3.9,44,184.0,"Palakkad, Coimbatore",Unverified,False,False
+740,Chennai Modern Makeup 740,Makeup,Chennai,Modern,32045,28840,35249,4.5,369,,Chennai,Unverified,False,False
+741,Malappuram Traditional Catering 741,Catering,Malappuram,Traditional,190989,171890,210087,4.7,89,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+742,Thiruvananthapuram Luxury Catering 742,Catering,Thiruvananthapuram,Luxury,129650,116685,142615,3.3,22,,Thiruvananthapuram,Unverified,False,False
+743,Munnar Luxury Catering 743,Catering,Munnar,Luxury,137467,123720,151213,4.4,435,,Munnar,Unverified,False,False
+744,Kollam Minimalist Makeup 744,Makeup,Kollam,Minimalist,17747,15972,19521,4.5,405,,Kollam,Unverified,False,False
+745,Palakkad Modern Photography 745,Photography,Palakkad,Modern,80498,72448,88547,3.7,437,,"Palakkad, Coimbatore",Unverified,False,False
+746,Kollam Minimalist Catering 746,Catering,Kollam,Minimalist,108841,97956,119725,4.9,149,,Kollam,Unverified,False,False
+747,Kottayam Minimalist Photography 747,Photography,Kottayam,Minimalist,26403,23762,29043,3.6,467,,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+748,Thiruvananthapuram Minimalist Photography 748,Photography,Thiruvananthapuram,Minimalist,13133,11819,14446,3.8,347,,Thiruvananthapuram,Unverified,False,False
+749,Kolkata Traditional Makeup 749,Makeup,Kolkata,Traditional,19135,17221,21048,4.6,12,,Kolkata,Unverified,False,False
+750,Thiruvananthapuram Modern Decoration 750,Decoration,Thiruvananthapuram,Modern,141335,127201,155468,4.5,159,,Thiruvananthapuram,Unverified,False,False
+751,Pune Modern Music 751,Music,Pune,Modern,42968,38671,47264,4.7,376,,Pune,Unverified,False,False
+752,Coimbatore Traditional Makeup 752,Makeup,Coimbatore,Traditional,28483,25634,31331,4.6,135,,"Coimbatore, Palakkad",Unverified,False,False
+753,Pune Minimalist Decoration 753,Decoration,Pune,Minimalist,23807,21426,26187,4.2,417,,Pune,Unverified,False,False
+754,Wayanad Luxury Decoration 754,Decoration,Wayanad,Luxury,123729,111356,136101,3.2,36,,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+755,Chennai Modern Decoration 755,Decoration,Chennai,Modern,89904,80913,98894,4.5,134,,Chennai,Unverified,False,False
+756,Malappuram Luxury Decoration 756,Decoration,Malappuram,Luxury,128026,115223,140828,4.7,394,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+757,Kolkata Minimalist Music 757,Music,Kolkata,Minimalist,39421,35478,43363,3.0,61,,Kolkata,Unverified,False,False
+758,Kasaragod Luxury Makeup 758,Makeup,Kasaragod,Luxury,29406,26465,32346,4.6,294,,Kasaragod,Unverified,False,False
+759,Bengaluru Traditional Catering 759,Catering,Bengaluru,Traditional,144036,129632,158439,4.0,312,,Bengaluru,Unverified,False,False
+760,Bengaluru Minimalist Venue 760,Venue,Bengaluru,Minimalist,238857,214971,262742,3.2,313,1222.0,Bengaluru,Unverified,False,False
+761,Pathanamthitta Traditional Makeup 761,Makeup,Pathanamthitta,Traditional,10852,9766,11937,3.7,63,,Pathanamthitta,Unverified,False,False
+762,Munnar Traditional Makeup 762,Makeup,Munnar,Traditional,21688,19519,23856,3.7,195,,Munnar,Unverified,False,False
+763,Delhi Modern Venue 763,Venue,Delhi,Modern,100509,90458,110559,4.3,61,417.0,Delhi,Unverified,False,False
+764,Alappuzha Traditional Venue 764,Venue,Alappuzha,Traditional,63292,56962,69621,4.5,239,813.0,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+765,Thiruvananthapuram Minimalist Venue 765,Venue,Thiruvananthapuram,Minimalist,139724,125751,153696,4.3,291,1381.0,Thiruvananthapuram,Unverified,False,False
+766,Kochi Traditional Makeup 766,Makeup,Kochi,Traditional,29153,26237,32068,4.1,235,,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+767,Bengaluru Traditional Catering 767,Catering,Bengaluru,Traditional,168088,151279,184896,4.2,304,,Bengaluru,Unverified,False,False
+768,Kochi Modern Makeup 768,Makeup,Kochi,Modern,24716,22244,27187,4.2,441,,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+769,Pathanamthitta Minimalist Photography 769,Photography,Pathanamthitta,Minimalist,36965,33268,40661,4.6,337,,Pathanamthitta,Unverified,False,False
+770,Munnar Traditional Decoration 770,Decoration,Munnar,Traditional,13067,11760,14373,3.7,442,,Munnar,Unverified,False,False
+771,Bengaluru Luxury Venue 771,Venue,Bengaluru,Luxury,219961,197964,241957,5.0,429,1118.0,Bengaluru,Unverified,False,False
+772,Thrissur Luxury Music 772,Music,Thrissur,Luxury,52602,47341,57862,3.3,279,,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+773,Palakkad Minimalist Venue 773,Venue,Palakkad,Minimalist,99532,89578,109485,3.9,70,359.0,"Palakkad, Coimbatore",Unverified,False,False
+774,Pathanamthitta Luxury Decoration 774,Decoration,Pathanamthitta,Luxury,23746,21371,26120,4.8,149,,Pathanamthitta,Unverified,False,False
+775,Alappuzha Modern Venue 775,Venue,Alappuzha,Modern,131125,118012,144237,4.1,315,776.0,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+776,Wayanad Minimalist Decoration 776,Decoration,Wayanad,Minimalist,101396,91256,111535,3.3,260,,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+777,Kannur Modern Decoration 777,Decoration,Kannur,Modern,119181,107262,131099,3.7,50,,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+778,Coimbatore Minimalist Music 778,Music,Coimbatore,Minimalist,34044,30639,37448,3.2,262,,"Coimbatore, Palakkad",Unverified,False,False
+779,Wayanad Traditional Decoration 779,Decoration,Wayanad,Traditional,142580,128322,156838,3.9,426,,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+780,Kasaragod Luxury Photography 780,Photography,Kasaragod,Luxury,13658,12292,15023,4.7,466,,Kasaragod,Unverified,False,False
+781,Thekkady Traditional Makeup 781,Makeup,Thekkady,Traditional,16874,15186,18561,3.2,349,,Thekkady,Unverified,False,False
+782,Bengaluru Traditional Venue 782,Venue,Bengaluru,Traditional,89578,80620,98535,3.6,493,199.0,Bengaluru,Unverified,False,False
+783,Kottayam Modern Makeup 783,Makeup,Kottayam,Modern,32421,29178,35663,3.6,374,,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+784,Palakkad Luxury Photography 784,Photography,Palakkad,Luxury,109165,98248,120081,3.4,461,,"Palakkad, Coimbatore",Unverified,False,False
+785,Kottayam Minimalist Venue 785,Venue,Kottayam,Minimalist,113904,102513,125294,4.6,443,935.0,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+786,Kollam Modern Music 786,Music,Kollam,Modern,33932,30538,37325,3.5,392,,Kollam,Unverified,False,False
+787,Coimbatore Modern Makeup 787,Makeup,Coimbatore,Modern,4596,4136,5055,3.7,14,,"Coimbatore, Palakkad",Unverified,False,False
+788,Delhi Minimalist Makeup 788,Makeup,Delhi,Minimalist,21876,19688,24063,4.3,220,,Delhi,Unverified,False,False
+789,Malappuram Traditional Makeup 789,Makeup,Malappuram,Traditional,38624,34761,42486,3.8,74,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+790,Wayanad Minimalist Catering 790,Catering,Wayanad,Minimalist,175039,157535,192542,4.0,91,,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+791,Wayanad Traditional Decoration 791,Decoration,Wayanad,Traditional,132293,119063,145522,4.8,253,,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+792,Thekkady Traditional Photography 792,Photography,Thekkady,Traditional,35956,32360,39551,3.4,7,,Thekkady,Unverified,False,False
+793,Kozhikode Traditional Catering 793,Catering,Kozhikode,Traditional,96177,86559,105794,3.4,45,,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+794,Alappuzha Luxury Venue 794,Venue,Alappuzha,Luxury,107496,96746,118245,3.8,407,142.0,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+795,Coimbatore Luxury Catering 795,Catering,Coimbatore,Luxury,22150,19935,24365,3.9,327,,"Coimbatore, Palakkad",Unverified,False,False
+796,Palakkad Minimalist Decoration 796,Decoration,Palakkad,Minimalist,78311,70479,86142,3.6,79,,"Palakkad, Coimbatore",Unverified,False,False
+797,Hyderabad Luxury Decoration 797,Decoration,Hyderabad,Luxury,83336,75002,91669,4.1,436,,Hyderabad,Unverified,False,False
+798,Kochi Traditional Venue 798,Venue,Kochi,Traditional,50249,45224,55273,3.7,9,1331.0,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+799,Mumbai Minimalist Music 799,Music,Mumbai,Minimalist,37453,33707,41198,4.2,232,,Mumbai,Unverified,False,False
+800,Wayanad Minimalist Venue 800,Venue,Wayanad,Minimalist,91384,82245,100522,4.0,99,562.0,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+801,Mumbai Minimalist Photography 801,Photography,Mumbai,Minimalist,54738,49264,60211,4.5,374,,Mumbai,Unverified,False,False
+802,Thekkady Modern Photography 802,Photography,Thekkady,Modern,49101,44190,54011,4.1,95,,Thekkady,Unverified,False,False
+803,Thiruvananthapuram Luxury Music 803,Music,Thiruvananthapuram,Luxury,28892,26002,31781,3.9,139,,Thiruvananthapuram,Unverified,False,False
+804,Kolkata Minimalist Music 804,Music,Kolkata,Minimalist,26554,23898,29209,4.4,298,,Kolkata,Unverified,False,False
+805,Mumbai Modern Music 805,Music,Mumbai,Modern,5461,4914,6007,5.0,237,,Mumbai,Unverified,False,False
+806,Kannur Modern Music 806,Music,Kannur,Modern,27398,24658,30137,3.5,190,,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+807,Thekkady Minimalist Decoration 807,Decoration,Thekkady,Minimalist,85298,76768,93827,4.8,361,,Thekkady,Unverified,False,False
+808,Thiruvananthapuram Traditional Decoration 808,Decoration,Thiruvananthapuram,Traditional,43897,39507,48286,3.8,8,,Thiruvananthapuram,Unverified,False,False
+809,Delhi Traditional Makeup 809,Makeup,Delhi,Traditional,25607,23046,28167,4.4,392,,Delhi,Unverified,False,False
+810,Mumbai Traditional Photography 810,Photography,Mumbai,Traditional,103122,92809,113434,3.7,208,,Mumbai,Unverified,False,False
+811,Kochi Traditional Photography 811,Photography,Kochi,Traditional,40112,36100,44123,3.7,287,,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+812,Kozhikode Modern Decoration 812,Decoration,Kozhikode,Modern,46146,41531,50760,4.8,419,,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+813,Kozhikode Minimalist Venue 813,Venue,Kozhikode,Minimalist,214679,193211,236146,3.4,357,402.0,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+814,Pathanamthitta Luxury Venue 814,Venue,Pathanamthitta,Luxury,140758,126682,154833,4.6,186,436.0,Pathanamthitta,Unverified,False,False
+815,Mysuru Modern Venue 815,Venue,Mysuru,Modern,76549,68894,84203,4.4,4,1071.0,Mysuru,Unverified,False,False
+816,Thekkady Luxury Decoration 816,Decoration,Thekkady,Luxury,71282,64153,78410,3.7,251,,Thekkady,Unverified,False,False
+817,Mumbai Traditional Decoration 817,Decoration,Mumbai,Traditional,79509,71558,87459,3.6,466,,Mumbai,Unverified,False,False
+818,Thiruvananthapuram Minimalist Photography 818,Photography,Thiruvananthapuram,Minimalist,72544,65289,79798,4.1,357,,Thiruvananthapuram,Unverified,False,False
+819,Kochi Minimalist Catering 819,Catering,Kochi,Minimalist,163842,147457,180226,5.0,174,,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+820,Thiruvananthapuram Luxury Makeup 820,Makeup,Thiruvananthapuram,Luxury,22343,20108,24577,3.3,118,,Thiruvananthapuram,Unverified,False,False
+821,Thrissur Modern Photography 821,Photography,Thrissur,Modern,117289,105560,129017,3.1,236,,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+822,Delhi Traditional Decoration 822,Decoration,Delhi,Traditional,132355,119119,145590,4.2,190,,Delhi,Unverified,False,False
+823,Kasaragod Modern Makeup 823,Makeup,Kasaragod,Modern,17284,15555,19012,4.0,139,,Kasaragod,Unverified,False,False
+824,Kochi Modern Catering 824,Catering,Kochi,Modern,93395,84055,102734,3.1,48,,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+825,Alappuzha Minimalist Venue 825,Venue,Alappuzha,Minimalist,99738,89764,109711,3.6,349,1322.0,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+826,Thrissur Minimalist Photography 826,Photography,Thrissur,Minimalist,58548,52693,64402,4.3,249,,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+827,Bengaluru Modern Music 827,Music,Bengaluru,Modern,46983,42284,51681,4.5,411,,Bengaluru,Unverified,False,False
+828,Munnar Minimalist Catering 828,Catering,Munnar,Minimalist,166295,149665,182924,3.2,335,,Munnar,Unverified,False,False
+829,Thekkady Luxury Venue 829,Venue,Thekkady,Luxury,194371,174933,213808,4.6,175,793.0,Thekkady,Unverified,False,False
+830,Mumbai Luxury Decoration 830,Decoration,Mumbai,Luxury,101687,91518,111855,4.7,184,,Mumbai,Unverified,False,False
+831,Thiruvananthapuram Minimalist Venue 831,Venue,Thiruvananthapuram,Minimalist,41131,37017,45244,5.0,101,1143.0,Thiruvananthapuram,Unverified,False,False
+832,Chennai Minimalist Makeup 832,Makeup,Chennai,Minimalist,36304,32673,39934,4.0,196,,Chennai,Unverified,False,False
+833,Kozhikode Traditional Makeup 833,Makeup,Kozhikode,Traditional,34107,30696,37517,4.3,327,,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+834,Kolkata Minimalist Music 834,Music,Kolkata,Minimalist,59400,53460,65340,3.7,87,,Kolkata,Unverified,False,False
+835,Coimbatore Minimalist Decoration 835,Decoration,Coimbatore,Minimalist,113499,102149,124848,3.5,476,,"Coimbatore, Palakkad",Unverified,False,False
+836,Kasaragod Luxury Catering 836,Catering,Kasaragod,Luxury,15770,14193,17347,3.8,329,,Kasaragod,Unverified,False,False
+837,Kochi Minimalist Photography 837,Photography,Kochi,Minimalist,54327,48894,59759,3.1,393,,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+838,Palakkad Luxury Music 838,Music,Palakkad,Luxury,12078,10870,13285,3.7,318,,"Palakkad, Coimbatore",Unverified,False,False
+839,Chennai Luxury Music 839,Music,Chennai,Luxury,21041,18936,23145,3.7,343,,Chennai,Unverified,False,False
+840,Kasaragod Traditional Music 840,Music,Kasaragod,Traditional,50959,45863,56054,4.5,353,,Kasaragod,Unverified,False,False
+841,Malappuram Minimalist Catering 841,Catering,Malappuram,Minimalist,42578,38320,46835,4.0,30,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+842,Kozhikode Minimalist Venue 842,Venue,Kozhikode,Minimalist,188041,169236,206845,4.9,434,691.0,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+843,Mumbai Modern Music 843,Music,Mumbai,Modern,53424,48081,58766,3.2,215,,Mumbai,Unverified,False,False
+844,Kochi Traditional Catering 844,Catering,Kochi,Traditional,16046,14441,17650,3.1,35,,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+845,Kozhikode Traditional Makeup 845,Makeup,Kozhikode,Traditional,29287,26358,32215,4.9,318,,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+846,Mumbai Luxury Makeup 846,Makeup,Mumbai,Luxury,8823,7940,9705,4.5,496,,Mumbai,Unverified,False,False
+847,Kozhikode Modern Music 847,Music,Kozhikode,Modern,29809,26828,32789,3.0,314,,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+848,Kasaragod Modern Decoration 848,Decoration,Kasaragod,Modern,36834,33150,40517,3.9,388,,Kasaragod,Unverified,False,False
+849,Kottayam Luxury Venue 849,Venue,Kottayam,Luxury,59029,53126,64931,3.8,209,1482.0,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+850,Kochi Traditional Venue 850,Venue,Kochi,Traditional,72406,65165,79646,4.3,83,303.0,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+851,Thrissur Minimalist Venue 851,Venue,Thrissur,Minimalist,209395,188455,230334,4.9,95,1013.0,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+852,Kollam Luxury Decoration 852,Decoration,Kollam,Luxury,44354,39918,48789,3.4,338,,Kollam,Unverified,False,False
+853,Mysuru Luxury Decoration 853,Decoration,Mysuru,Luxury,147552,132796,162307,3.9,129,,Mysuru,Unverified,False,False
+854,Wayanad Luxury Decoration 854,Decoration,Wayanad,Luxury,86656,77990,95321,3.2,375,,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+855,Kottayam Traditional Decoration 855,Decoration,Kottayam,Traditional,78041,70236,85845,3.5,119,,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+856,Delhi Luxury Makeup 856,Makeup,Delhi,Luxury,19439,17495,21382,3.0,498,,Delhi,Unverified,False,False
+857,Mumbai Luxury Venue 857,Venue,Mumbai,Luxury,187329,168596,206061,3.1,162,1450.0,Mumbai,Unverified,False,False
+858,Wayanad Minimalist Catering 858,Catering,Wayanad,Minimalist,153578,138220,168935,4.7,227,,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+859,Munnar Minimalist Venue 859,Venue,Munnar,Minimalist,46154,41538,50769,3.6,421,1085.0,Munnar,Unverified,False,False
+860,Bengaluru Modern Venue 860,Venue,Bengaluru,Modern,41008,36907,45108,3.0,45,706.0,Bengaluru,Unverified,False,False
+861,Wayanad Luxury Venue 861,Venue,Wayanad,Luxury,138571,124713,152428,3.1,483,818.0,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+862,Kozhikode Minimalist Decoration 862,Decoration,Kozhikode,Minimalist,139996,125996,153995,3.0,462,,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+863,Hyderabad Traditional Decoration 863,Decoration,Hyderabad,Traditional,29352,26416,32287,4.3,6,,Hyderabad,Unverified,False,False
+864,Malappuram Modern Catering 864,Catering,Malappuram,Modern,30716,27644,33787,4.3,225,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+865,Delhi Modern Decoration 865,Decoration,Delhi,Modern,123920,111528,136312,4.9,431,,Delhi,Unverified,False,False
+866,Alappuzha Minimalist Makeup 866,Makeup,Alappuzha,Minimalist,21019,18917,23120,3.5,133,,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+867,Coimbatore Traditional Decoration 867,Decoration,Coimbatore,Traditional,80787,72708,88865,3.4,208,,"Coimbatore, Palakkad",Unverified,False,False
+868,Kannur Modern Venue 868,Venue,Kannur,Modern,241837,217653,266020,4.6,485,1020.0,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+869,Mysuru Modern Venue 869,Venue,Mysuru,Modern,45920,41328,50512,3.7,356,697.0,Mysuru,Unverified,False,False
+870,Kottayam Modern Venue 870,Venue,Kottayam,Modern,220727,198654,242799,4.4,489,398.0,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+871,Kannur Traditional Venue 871,Venue,Kannur,Traditional,196726,177053,216398,5.0,398,1008.0,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+872,Munnar Luxury Makeup 872,Makeup,Munnar,Luxury,15459,13913,17004,3.5,299,,Munnar,Unverified,False,False
+873,Kottayam Luxury Catering 873,Catering,Kottayam,Luxury,151948,136753,167142,3.0,85,,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+874,Kasaragod Modern Makeup 874,Makeup,Kasaragod,Modern,33978,30580,37375,4.3,104,,Kasaragod,Unverified,False,False
+875,Pune Modern Music 875,Music,Pune,Modern,16329,14696,17961,3.7,88,,Pune,Unverified,False,False
+876,Thrissur Luxury Catering 876,Catering,Thrissur,Luxury,155404,139863,170944,3.6,205,,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+877,Bengaluru Modern Decoration 877,Decoration,Bengaluru,Modern,112318,101086,123549,4.2,132,,Bengaluru,Unverified,False,False
+878,Bengaluru Traditional Music 878,Music,Bengaluru,Traditional,21202,19081,23322,4.5,315,,Bengaluru,Unverified,False,False
+879,Pune Luxury Catering 879,Catering,Pune,Luxury,173413,156071,190754,4.2,410,,Pune,Unverified,False,False
+880,Kolkata Modern Decoration 880,Decoration,Kolkata,Modern,141128,127015,155240,3.3,297,,Kolkata,Unverified,False,False
+881,Palakkad Traditional Photography 881,Photography,Palakkad,Traditional,105337,94803,115870,3.0,267,,"Palakkad, Coimbatore",Unverified,False,False
+882,Pune Modern Decoration 882,Decoration,Pune,Modern,29219,26297,32140,3.3,486,,Pune,Unverified,False,False
+883,Delhi Traditional Photography 883,Photography,Delhi,Traditional,115229,103706,126751,4.8,25,,Delhi,Unverified,False,False
+884,Wayanad Modern Decoration 884,Decoration,Wayanad,Modern,101097,90987,111206,3.7,133,,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+885,Pune Minimalist Venue 885,Venue,Pune,Minimalist,154940,139446,170434,3.9,256,1219.0,Pune,Unverified,False,False
+886,Mysuru Traditional Decoration 886,Decoration,Mysuru,Traditional,119602,107641,131562,4.1,350,,Mysuru,Unverified,False,False
+887,Hyderabad Modern Photography 887,Photography,Hyderabad,Modern,103469,93122,113815,4.5,210,,Hyderabad,Unverified,False,False
+888,Kollam Modern Decoration 888,Decoration,Kollam,Modern,126877,114189,139564,4.4,140,,Kollam,Unverified,False,False
+889,Kochi Modern Photography 889,Photography,Kochi,Modern,119189,107270,131107,3.2,181,,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+890,Palakkad Minimalist Catering 890,Catering,Palakkad,Minimalist,93183,83864,102501,3.6,484,,"Palakkad, Coimbatore",Unverified,False,False
+891,Thrissur Modern Music 891,Music,Thrissur,Modern,58098,52288,63907,3.5,274,,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+892,Pathanamthitta Traditional Photography 892,Photography,Pathanamthitta,Traditional,26416,23774,29057,3.8,132,,Pathanamthitta,Unverified,False,False
+893,Hyderabad Minimalist Venue 893,Venue,Hyderabad,Minimalist,114946,103451,126440,3.5,236,1427.0,Hyderabad,Unverified,False,False
+894,Kolkata Minimalist Decoration 894,Decoration,Kolkata,Minimalist,109018,98116,119919,3.4,397,,Kolkata,Unverified,False,False
+895,Kochi Modern Venue 895,Venue,Kochi,Modern,59630,53667,65593,4.1,408,966.0,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+896,Kollam Modern Catering 896,Catering,Kollam,Modern,121258,109132,133383,4.8,192,,Kollam,Unverified,False,False
+897,Kochi Traditional Catering 897,Catering,Kochi,Traditional,153677,138309,169044,3.7,212,,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+898,Coimbatore Traditional Music 898,Music,Coimbatore,Traditional,8305,7474,9135,4.1,163,,"Coimbatore, Palakkad",Unverified,False,False
+899,Kannur Luxury Music 899,Music,Kannur,Luxury,13612,12250,14973,4.4,341,,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+900,Kottayam Modern Catering 900,Catering,Kottayam,Modern,31335,28201,34468,3.8,70,,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+901,Kannur Traditional Decoration 901,Decoration,Kannur,Traditional,61790,55611,67969,3.5,437,,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+902,Mumbai Traditional Catering 902,Catering,Mumbai,Traditional,61461,55314,67607,3.5,24,,Mumbai,Unverified,False,False
+903,Palakkad Modern Decoration 903,Decoration,Palakkad,Modern,49857,44871,54842,3.3,463,,"Palakkad, Coimbatore",Unverified,False,False
+904,Hyderabad Traditional Music 904,Music,Hyderabad,Traditional,53149,47834,58463,4.9,461,,Hyderabad,Unverified,False,False
+905,Kannur Modern Photography 905,Photography,Kannur,Modern,82754,74478,91029,3.4,483,,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+906,Chennai Luxury Photography 906,Photography,Chennai,Luxury,60764,54687,66840,3.6,438,,Chennai,Unverified,False,False
+907,Kottayam Luxury Photography 907,Photography,Kottayam,Luxury,110308,99277,121338,3.2,132,,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+908,Pathanamthitta Modern Catering 908,Catering,Pathanamthitta,Modern,54119,48707,59530,3.7,189,,Pathanamthitta,Unverified,False,False
+909,Kannur Luxury Venue 909,Venue,Kannur,Luxury,186241,167616,204865,3.1,477,1318.0,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+910,Munnar Luxury Catering 910,Catering,Munnar,Luxury,152700,137430,167970,3.3,376,,Munnar,Unverified,False,False
+911,Pune Modern Catering 911,Catering,Pune,Modern,132600,119340,145860,4.6,448,,Pune,Unverified,False,False
+912,Kottayam Luxury Photography 912,Photography,Kottayam,Luxury,59069,53162,64975,4.0,436,,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+913,Coimbatore Modern Catering 913,Catering,Coimbatore,Modern,47850,43065,52635,4.0,27,,"Coimbatore, Palakkad",Unverified,False,False
+914,Kannur Minimalist Music 914,Music,Kannur,Minimalist,41884,37695,46072,3.0,442,,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+915,Bengaluru Luxury Makeup 915,Makeup,Bengaluru,Luxury,15072,13564,16579,4.0,280,,Bengaluru,Unverified,False,False
+916,Palakkad Minimalist Photography 916,Photography,Palakkad,Minimalist,75025,67522,82527,3.2,307,,"Palakkad, Coimbatore",Unverified,False,False
+917,Kochi Minimalist Venue 917,Venue,Kochi,Minimalist,55953,50357,61548,4.3,422,1127.0,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+918,Bengaluru Luxury Photography 918,Photography,Bengaluru,Luxury,23501,21150,25851,4.5,91,,Bengaluru,Unverified,False,False
+919,Delhi Traditional Decoration 919,Decoration,Delhi,Traditional,126259,113633,138884,5.0,56,,Delhi,Unverified,False,False
+920,Alappuzha Minimalist Decoration 920,Decoration,Alappuzha,Minimalist,80309,72278,88339,4.7,152,,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+921,Alappuzha Minimalist Catering 921,Catering,Alappuzha,Minimalist,57075,51367,62782,3.9,373,,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+922,Bengaluru Minimalist Decoration 922,Decoration,Bengaluru,Minimalist,44096,39686,48505,3.5,355,,Bengaluru,Unverified,False,False
+923,Kannur Luxury Music 923,Music,Kannur,Luxury,39951,35955,43946,3.8,463,,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+924,Bengaluru Luxury Makeup 924,Makeup,Bengaluru,Luxury,21539,19385,23692,3.6,454,,Bengaluru,Unverified,False,False
+925,Hyderabad Modern Decoration 925,Decoration,Hyderabad,Modern,37372,33634,41109,3.8,145,,Hyderabad,Unverified,False,False
+926,Malappuram Modern Makeup 926,Makeup,Malappuram,Modern,6333,5699,6966,3.8,47,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+927,Mysuru Luxury Venue 927,Venue,Mysuru,Luxury,35555,31999,39110,3.4,461,481.0,Mysuru,Unverified,False,False
+928,Malappuram Modern Makeup 928,Makeup,Malappuram,Modern,34675,31207,38142,4.4,377,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+929,Mumbai Luxury Photography 929,Photography,Mumbai,Luxury,112362,101125,123598,4.4,336,,Mumbai,Unverified,False,False
+930,Kannur Luxury Photography 930,Photography,Kannur,Luxury,32425,29182,35667,4.9,333,,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+931,Mumbai Traditional Decoration 931,Decoration,Mumbai,Traditional,97043,87338,106747,3.8,215,,Mumbai,Unverified,False,False
+932,Kasaragod Minimalist Music 932,Music,Kasaragod,Minimalist,27423,24680,30165,4.0,335,,Kasaragod,Unverified,False,False
+933,Chennai Modern Music 933,Music,Chennai,Modern,18909,17018,20799,5.0,45,,Chennai,Unverified,False,False
+934,Pathanamthitta Modern Catering 934,Catering,Pathanamthitta,Modern,180098,162088,198107,3.6,161,,Pathanamthitta,Unverified,False,False
+935,Kottayam Modern Venue 935,Venue,Kottayam,Modern,95696,86126,105265,4.9,365,1096.0,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+936,Kannur Luxury Music 936,Music,Kannur,Luxury,29920,26928,32912,4.2,479,,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+937,Kollam Traditional Catering 937,Catering,Kollam,Traditional,36275,32647,39902,4.9,124,,Kollam,Unverified,False,False
+938,Malappuram Luxury Catering 938,Catering,Malappuram,Luxury,197500,177750,217250,4.6,65,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+939,Coimbatore Luxury Music 939,Music,Coimbatore,Luxury,22410,20169,24651,4.9,109,,"Coimbatore, Palakkad",Unverified,False,False
+940,Thiruvananthapuram Minimalist Catering 940,Catering,Thiruvananthapuram,Minimalist,185938,167344,204531,3.5,248,,Thiruvananthapuram,Unverified,False,False
+941,Malappuram Minimalist Music 941,Music,Malappuram,Minimalist,16590,14931,18249,3.6,446,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+942,Delhi Modern Decoration 942,Decoration,Delhi,Modern,26773,24095,29450,4.2,140,,Delhi,Unverified,False,False
+943,Thiruvananthapuram Traditional Catering 943,Catering,Thiruvananthapuram,Traditional,188746,169871,207620,4.3,46,,Thiruvananthapuram,Unverified,False,False
+944,Kasaragod Traditional Photography 944,Photography,Kasaragod,Traditional,17865,16078,19651,4.5,418,,Kasaragod,Unverified,False,False
+945,Munnar Luxury Catering 945,Catering,Munnar,Luxury,183494,165144,201843,3.2,210,,Munnar,Unverified,False,False
+946,Hyderabad Traditional Decoration 946,Decoration,Hyderabad,Traditional,119410,107469,131351,3.7,384,,Hyderabad,Unverified,False,False
+947,Chennai Traditional Venue 947,Venue,Chennai,Traditional,211269,190142,232395,3.5,350,1106.0,Chennai,Unverified,False,False
+948,Kolkata Luxury Music 948,Music,Kolkata,Luxury,11244,10119,12368,3.2,127,,Kolkata,Unverified,False,False
+949,Kottayam Luxury Music 949,Music,Kottayam,Luxury,21760,19584,23936,4.0,366,,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+950,Kolkata Minimalist Photography 950,Photography,Kolkata,Minimalist,89046,80141,97950,4.4,417,,Kolkata,Unverified,False,False
+951,Coimbatore Traditional Catering 951,Catering,Coimbatore,Traditional,183576,165218,201933,4.0,482,,"Coimbatore, Palakkad",Unverified,False,False
+952,Malappuram Minimalist Decoration 952,Decoration,Malappuram,Minimalist,40642,36577,44706,4.6,15,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+953,Kolkata Traditional Photography 953,Photography,Kolkata,Traditional,17183,15464,18901,3.2,63,,Kolkata,Unverified,False,False
+954,Thrissur Minimalist Venue 954,Venue,Thrissur,Minimalist,97132,87418,106845,4.3,185,76.0,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+955,Pune Minimalist Venue 955,Venue,Pune,Minimalist,152157,136941,167372,3.5,233,398.0,Pune,Unverified,False,False
+956,Mysuru Minimalist Makeup 956,Makeup,Mysuru,Minimalist,30029,27026,33031,4.3,290,,Mysuru,Unverified,False,False
+957,Coimbatore Minimalist Photography 957,Photography,Coimbatore,Minimalist,73794,66414,81173,4.2,8,,"Coimbatore, Palakkad",Unverified,False,False
+958,Thrissur Luxury Music 958,Music,Thrissur,Luxury,7186,6467,7904,4.2,29,,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+959,Palakkad Traditional Music 959,Music,Palakkad,Traditional,54456,49010,59901,3.5,451,,"Palakkad, Coimbatore",Unverified,False,False
+960,Kannur Minimalist Catering 960,Catering,Kannur,Minimalist,168183,151364,185001,3.9,115,,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+961,Mumbai Modern Photography 961,Photography,Mumbai,Modern,57430,51687,63173,3.5,366,,Mumbai,Unverified,False,False
+962,Pune Traditional Makeup 962,Makeup,Pune,Traditional,39174,35256,43091,5.0,145,,Pune,Unverified,False,False
+963,Thrissur Minimalist Music 963,Music,Thrissur,Minimalist,10257,9231,11282,3.2,433,,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+964,Thrissur Modern Venue 964,Venue,Thrissur,Modern,120991,108891,133090,5.0,183,453.0,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+965,Coimbatore Traditional Decoration 965,Decoration,Coimbatore,Traditional,99647,89682,109611,3.7,367,,"Coimbatore, Palakkad",Unverified,False,False
+966,Kolkata Luxury Photography 966,Photography,Kolkata,Luxury,74456,67010,81901,3.8,500,,Kolkata,Unverified,False,False
+967,Pune Minimalist Decoration 967,Decoration,Pune,Minimalist,72268,65041,79494,3.7,475,,Pune,Unverified,False,False
+968,Kottayam Minimalist Photography 968,Photography,Kottayam,Minimalist,66028,59425,72630,3.6,150,,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+969,Wayanad Minimalist Decoration 969,Decoration,Wayanad,Minimalist,31481,28332,34629,4.0,99,,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+970,Pathanamthitta Luxury Decoration 970,Decoration,Pathanamthitta,Luxury,73356,66020,80691,3.9,301,,Pathanamthitta,Unverified,False,False
+971,Mysuru Minimalist Catering 971,Catering,Mysuru,Minimalist,85466,76919,94012,3.1,53,,Mysuru,Unverified,False,False
+972,Kozhikode Traditional Catering 972,Catering,Kozhikode,Traditional,170286,153257,187314,4.4,325,,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+973,Bengaluru Luxury Catering 973,Catering,Bengaluru,Luxury,143298,128968,157627,3.5,62,,Bengaluru,Unverified,False,False
+974,Delhi Minimalist Decoration 974,Decoration,Delhi,Minimalist,143737,129363,158110,3.3,375,,Delhi,Unverified,False,False
+975,Alappuzha Luxury Venue 975,Venue,Alappuzha,Luxury,173975,156577,191372,3.9,276,422.0,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+976,Thiruvananthapuram Luxury Venue 976,Venue,Thiruvananthapuram,Luxury,43289,38960,47617,3.4,309,682.0,Thiruvananthapuram,Unverified,False,False
+977,Thiruvananthapuram Modern Makeup 977,Makeup,Thiruvananthapuram,Modern,6931,6237,7624,4.3,113,,Thiruvananthapuram,Unverified,False,False
+978,Kozhikode Traditional Decoration 978,Decoration,Kozhikode,Traditional,57540,51786,63294,4.8,410,,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+979,Kochi Luxury Catering 979,Catering,Kochi,Luxury,109697,98727,120666,3.9,28,,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+980,Pathanamthitta Minimalist Photography 980,Photography,Pathanamthitta,Minimalist,115799,104219,127378,3.7,304,,Pathanamthitta,Unverified,False,False
+981,Delhi Traditional Catering 981,Catering,Delhi,Traditional,60190,54171,66209,4.5,57,,Delhi,Unverified,False,False
+982,Kolkata Traditional Decoration 982,Decoration,Kolkata,Traditional,19877,17889,21864,3.8,190,,Kolkata,Unverified,False,False
+983,Kolkata Modern Makeup 983,Makeup,Kolkata,Modern,25946,23351,28540,4.1,381,,Kolkata,Unverified,False,False
+984,Kochi Modern Decoration 984,Decoration,Kochi,Modern,18977,17079,20874,3.6,447,,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+985,Kochi Luxury Decoration 985,Decoration,Kochi,Luxury,19773,17795,21750,3.2,230,,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+986,Mysuru Modern Music 986,Music,Mysuru,Modern,24114,21702,26525,3.6,204,,Mysuru,Unverified,False,False
+987,Pathanamthitta Minimalist Catering 987,Catering,Pathanamthitta,Minimalist,108671,97803,119538,4.7,100,,Pathanamthitta,Unverified,False,False
+988,Mumbai Minimalist Photography 988,Photography,Mumbai,Minimalist,92303,83072,101533,3.6,386,,Mumbai,Unverified,False,False
+989,Kottayam Luxury Decoration 989,Decoration,Kottayam,Luxury,43312,38980,47643,4.8,90,,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+990,Mysuru Luxury Music 990,Music,Mysuru,Luxury,20020,18018,22022,4.9,132,,Mysuru,Unverified,False,False
+991,Pune Modern Photography 991,Photography,Pune,Modern,103420,93078,113762,4.3,436,,Pune,Unverified,False,False
+992,Palakkad Minimalist Makeup 992,Makeup,Palakkad,Minimalist,32904,29613,36194,3.8,249,,"Palakkad, Coimbatore",Unverified,False,False
+993,Pune Modern Decoration 993,Decoration,Pune,Modern,92644,83379,101908,3.5,465,,Pune,Unverified,False,False
+994,Hyderabad Traditional Music 994,Music,Hyderabad,Traditional,30883,27794,33971,5.0,419,,Hyderabad,Unverified,False,False
+995,Pathanamthitta Minimalist Venue 995,Venue,Pathanamthitta,Minimalist,58382,52543,64220,3.1,108,365.0,Pathanamthitta,Unverified,False,False
+996,Kolkata Minimalist Photography 996,Photography,Kolkata,Minimalist,109114,98202,120025,4.4,406,,Kolkata,Unverified,False,False
+997,Delhi Modern Decoration 997,Decoration,Delhi,Modern,63120,56808,69432,3.3,190,,Delhi,Unverified,False,False
+998,Mumbai Luxury Catering 998,Catering,Mumbai,Luxury,94507,85056,103957,4.9,79,,Mumbai,Unverified,False,False
+999,Kozhikode Luxury Music 999,Music,Kozhikode,Luxury,34122,30709,37534,3.2,128,,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+1000,Mumbai Minimalist Catering 1000,Catering,Mumbai,Minimalist,166421,149778,183063,3.8,252,,Mumbai,Unverified,False,False
+1001,Kolkata Modern Makeup 1001,Makeup,Kolkata,Modern,7474,6726,8221,3.1,8,,Kolkata,Unverified,False,False
+1002,Kollam Modern Makeup 1002,Makeup,Kollam,Modern,26191,23571,28810,4.7,15,,Kollam,Unverified,False,False
+1003,Pune Minimalist Photography 1003,Photography,Pune,Minimalist,90840,81756,99924,4.5,446,,Pune,Unverified,False,False
+1004,Kasaragod Minimalist Music 1004,Music,Kasaragod,Minimalist,25048,22543,27552,3.1,183,,Kasaragod,Unverified,False,False
+1005,Thekkady Modern Makeup 1005,Makeup,Thekkady,Modern,28748,25873,31622,4.4,311,,Thekkady,Unverified,False,False
+1006,Thiruvananthapuram Traditional Music 1006,Music,Thiruvananthapuram,Traditional,58246,52421,64070,4.5,383,,Thiruvananthapuram,Unverified,False,False
+1007,Kasaragod Modern Music 1007,Music,Kasaragod,Modern,25357,22821,27892,3.0,203,,Kasaragod,Unverified,False,False
+1008,Alappuzha Minimalist Photography 1008,Photography,Alappuzha,Minimalist,117983,106184,129781,3.3,15,,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+1009,Pathanamthitta Luxury Venue 1009,Venue,Pathanamthitta,Luxury,168527,151674,185379,3.8,183,889.0,Pathanamthitta,Unverified,False,False
+1010,Pune Minimalist Music 1010,Music,Pune,Minimalist,16770,15093,18447,3.0,460,,Pune,Unverified,False,False
+1011,Kochi Modern Catering 1011,Catering,Kochi,Modern,29322,26389,32254,3.9,470,,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+1012,Chennai Minimalist Decoration 1012,Decoration,Chennai,Minimalist,119097,107187,131006,4.4,52,,Chennai,Unverified,False,False
+1013,Coimbatore Minimalist Music 1013,Music,Coimbatore,Minimalist,58255,52429,64080,3.5,247,,"Coimbatore, Palakkad",Unverified,False,False
+1014,Thiruvananthapuram Modern Decoration 1014,Decoration,Thiruvananthapuram,Modern,66247,59622,72871,4.5,331,,Thiruvananthapuram,Unverified,False,False
+1015,Kochi Luxury Decoration 1015,Decoration,Kochi,Luxury,77004,69303,84704,4.9,332,,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+1016,Thrissur Minimalist Catering 1016,Catering,Thrissur,Minimalist,31693,28523,34862,3.1,396,,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+1017,Kochi Luxury Music 1017,Music,Kochi,Luxury,6600,5940,7260,3.9,301,,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+1018,Hyderabad Luxury Venue 1018,Venue,Hyderabad,Luxury,84307,75876,92737,4.1,76,926.0,Hyderabad,Unverified,False,False
+1019,Coimbatore Traditional Decoration 1019,Decoration,Coimbatore,Traditional,126363,113726,138999,4.3,255,,"Coimbatore, Palakkad",Unverified,False,False
+1020,Kozhikode Luxury Venue 1020,Venue,Kozhikode,Luxury,246774,222096,271451,4.0,422,625.0,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+1021,Malappuram Luxury Makeup 1021,Makeup,Malappuram,Luxury,23932,21538,26325,3.5,181,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+1022,Thekkady Luxury Music 1022,Music,Thekkady,Luxury,14285,12856,15713,3.5,454,,Thekkady,Unverified,False,False
+1023,Pune Modern Decoration 1023,Decoration,Pune,Modern,54733,49259,60206,4.6,227,,Pune,Unverified,False,False
+1024,Kottayam Luxury Music 1024,Music,Kottayam,Luxury,48791,43911,53670,3.3,11,,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+1025,Mysuru Luxury Decoration 1025,Decoration,Mysuru,Luxury,86868,78181,95554,4.4,230,,Mysuru,Unverified,False,False
+1026,Kochi Minimalist Photography 1026,Photography,Kochi,Minimalist,71663,64496,78829,4.3,341,,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+1027,Mumbai Luxury Makeup 1027,Makeup,Mumbai,Luxury,27282,24553,30010,3.7,101,,Mumbai,Unverified,False,False
+1028,Kolkata Minimalist Catering 1028,Catering,Kolkata,Minimalist,71546,64391,78700,3.1,246,,Kolkata,Unverified,False,False
+1029,Mysuru Minimalist Photography 1029,Photography,Mysuru,Minimalist,77024,69321,84726,3.1,421,,Mysuru,Unverified,False,False
+1030,Mumbai Luxury Music 1030,Music,Mumbai,Luxury,49400,44460,54340,4.3,138,,Mumbai,Unverified,False,False
+1031,Coimbatore Traditional Photography 1031,Photography,Coimbatore,Traditional,25964,23367,28560,3.6,380,,"Coimbatore, Palakkad",Unverified,False,False
+1032,Mysuru Modern Photography 1032,Photography,Mysuru,Modern,107927,97134,118719,3.4,54,,Mysuru,Unverified,False,False
+1033,Pune Luxury Photography 1033,Photography,Pune,Luxury,112530,101277,123783,4.5,264,,Pune,Unverified,False,False
+1034,Kollam Minimalist Music 1034,Music,Kollam,Minimalist,42955,38659,47250,4.1,363,,Kollam,Unverified,False,False
+1035,Thekkady Luxury Makeup 1035,Makeup,Thekkady,Luxury,38224,34401,42046,3.9,458,,Thekkady,Unverified,False,False
+1036,Alappuzha Modern Decoration 1036,Decoration,Alappuzha,Modern,130784,117705,143862,3.0,387,,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+1037,Mysuru Modern Venue 1037,Venue,Mysuru,Modern,207835,187051,228618,3.0,94,165.0,Mysuru,Unverified,False,False
+1038,Mumbai Luxury Music 1038,Music,Mumbai,Luxury,43565,39208,47921,3.8,143,,Mumbai,Unverified,False,False
+1039,Kottayam Traditional Venue 1039,Venue,Kottayam,Traditional,214051,192645,235456,4.5,184,300.0,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+1040,Mumbai Modern Decoration 1040,Decoration,Mumbai,Modern,77933,70139,85726,4.1,436,,Mumbai,Unverified,False,False
+1041,Kolkata Modern Venue 1041,Venue,Kolkata,Modern,52954,47658,58249,4.5,29,719.0,Kolkata,Unverified,False,False
+1042,Munnar Modern Makeup 1042,Makeup,Munnar,Modern,34845,31360,38329,4.0,275,,Munnar,Unverified,False,False
+1043,Kottayam Modern Decoration 1043,Decoration,Kottayam,Modern,23789,21410,26167,3.4,113,,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+1044,Thekkady Minimalist Music 1044,Music,Thekkady,Minimalist,49759,44783,54734,3.7,328,,Thekkady,Unverified,False,False
+1045,Kolkata Modern Music 1045,Music,Kolkata,Modern,19135,17221,21048,3.6,279,,Kolkata,Unverified,False,False
+1046,Kottayam Luxury Photography 1046,Photography,Kottayam,Luxury,25117,22605,27628,4.3,240,,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+1047,Thekkady Minimalist Makeup 1047,Makeup,Thekkady,Minimalist,14663,13196,16129,4.8,300,,Thekkady,Unverified,False,False
+1048,Chennai Modern Photography 1048,Photography,Chennai,Modern,17184,15465,18902,3.8,353,,Chennai,Unverified,False,False
+1049,Pune Modern Makeup 1049,Makeup,Pune,Modern,3129,2816,3441,4.2,23,,Pune,Unverified,False,False
+1050,Kozhikode Luxury Makeup 1050,Makeup,Kozhikode,Luxury,39492,35542,43441,4.0,268,,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+1051,Pune Modern Venue 1051,Venue,Pune,Modern,176262,158635,193888,3.3,143,472.0,Pune,Unverified,False,False
+1052,Alappuzha Traditional Makeup 1052,Makeup,Alappuzha,Traditional,26684,24015,29352,4.6,147,,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+1053,Thekkady Luxury Photography 1053,Photography,Thekkady,Luxury,97943,88148,107737,3.4,468,,Thekkady,Unverified,False,False
+1054,Alappuzha Modern Catering 1054,Catering,Alappuzha,Modern,49385,44446,54323,5.0,47,,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+1055,Thiruvananthapuram Minimalist Photography 1055,Photography,Thiruvananthapuram,Minimalist,23983,21584,26381,4.8,208,,Thiruvananthapuram,Unverified,False,False
+1056,Alappuzha Luxury Makeup 1056,Makeup,Alappuzha,Luxury,39271,35343,43198,4.6,352,,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+1057,Pune Modern Catering 1057,Catering,Pune,Modern,25675,23107,28242,3.8,482,,Pune,Unverified,False,False
+1058,Bengaluru Traditional Photography 1058,Photography,Bengaluru,Traditional,60711,54639,66782,3.4,115,,Bengaluru,Unverified,False,False
+1059,Coimbatore Luxury Photography 1059,Photography,Coimbatore,Luxury,93169,83852,102485,3.4,131,,"Coimbatore, Palakkad",Unverified,False,False
+1060,Thiruvananthapuram Modern Photography 1060,Photography,Thiruvananthapuram,Modern,116844,105159,128528,3.6,114,,Thiruvananthapuram,Unverified,False,False
+1061,Kottayam Modern Catering 1061,Catering,Kottayam,Modern,53229,47906,58551,4.4,301,,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+1062,Malappuram Luxury Music 1062,Music,Malappuram,Luxury,27980,25182,30778,4.0,62,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+1063,Thekkady Luxury Photography 1063,Photography,Thekkady,Luxury,31798,28618,34977,3.4,67,,Thekkady,Unverified,False,False
+1064,Pune Modern Venue 1064,Venue,Pune,Modern,131251,118125,144376,4.5,95,287.0,Pune,Unverified,False,False
+1065,Thiruvananthapuram Luxury Photography 1065,Photography,Thiruvananthapuram,Luxury,40588,36529,44646,4.7,258,,Thiruvananthapuram,Unverified,False,False
+1066,Kollam Traditional Decoration 1066,Decoration,Kollam,Traditional,123506,111155,135856,4.0,94,,Kollam,Unverified,False,False
+1067,Palakkad Minimalist Makeup 1067,Makeup,Palakkad,Minimalist,21125,19012,23237,3.1,333,,"Palakkad, Coimbatore",Unverified,False,False
+1068,Mysuru Traditional Music 1068,Music,Mysuru,Traditional,51000,45900,56100,4.3,135,,Mysuru,Unverified,False,False
+1069,Chennai Modern Photography 1069,Photography,Chennai,Modern,16458,14812,18103,3.6,298,,Chennai,Unverified,False,False
+1070,Pune Luxury Makeup 1070,Makeup,Pune,Luxury,5109,4598,5619,3.9,338,,Pune,Unverified,False,False
+1071,Bengaluru Modern Music 1071,Music,Bengaluru,Modern,28820,25938,31702,3.0,283,,Bengaluru,Unverified,False,False
+1072,Kottayam Modern Decoration 1072,Decoration,Kottayam,Modern,20987,18888,23085,3.3,372,,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+1073,Mysuru Traditional Decoration 1073,Decoration,Mysuru,Traditional,98291,88461,108120,4.4,394,,Mysuru,Unverified,False,False
+1074,Kasaragod Traditional Music 1074,Music,Kasaragod,Traditional,16771,15093,18448,3.9,414,,Kasaragod,Unverified,False,False
+1075,Thrissur Traditional Makeup 1075,Makeup,Thrissur,Traditional,18389,16550,20227,4.6,305,,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+1076,Thrissur Minimalist Venue 1076,Venue,Thrissur,Minimalist,223183,200864,245501,4.2,81,847.0,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+1077,Thiruvananthapuram Luxury Catering 1077,Catering,Thiruvananthapuram,Luxury,139189,125270,153107,3.3,369,,Thiruvananthapuram,Unverified,False,False
+1078,Pune Luxury Photography 1078,Photography,Pune,Luxury,27507,24756,30257,4.0,213,,Pune,Unverified,False,False
+1079,Pune Minimalist Makeup 1079,Makeup,Pune,Minimalist,37238,33514,40961,3.3,482,,Pune,Unverified,False,False
+1080,Wayanad Traditional Music 1080,Music,Wayanad,Traditional,34232,30808,37655,3.5,34,,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+1081,Wayanad Traditional Makeup 1081,Makeup,Wayanad,Traditional,11379,10241,12516,3.9,163,,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+1082,Wayanad Luxury Decoration 1082,Decoration,Wayanad,Luxury,122218,109996,134439,4.6,179,,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+1083,Munnar Traditional Venue 1083,Venue,Munnar,Traditional,192710,173439,211981,3.5,338,1357.0,Munnar,Unverified,False,False
+1084,Delhi Minimalist Venue 1084,Venue,Delhi,Minimalist,178432,160588,196275,4.8,343,412.0,Delhi,Unverified,False,False
+1085,Kolkata Modern Makeup 1085,Makeup,Kolkata,Modern,5569,5012,6125,4.1,5,,Kolkata,Unverified,False,False
+1086,Alappuzha Minimalist Photography 1086,Photography,Alappuzha,Minimalist,58880,52992,64768,4.1,92,,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+1087,Munnar Modern Makeup 1087,Makeup,Munnar,Modern,22095,19885,24304,4.8,491,,Munnar,Unverified,False,False
+1088,Kollam Luxury Decoration 1088,Decoration,Kollam,Luxury,21841,19656,24025,3.9,46,,Kollam,Unverified,False,False
+1089,Wayanad Modern Music 1089,Music,Wayanad,Modern,52505,47254,57755,3.4,169,,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+1090,Chennai Traditional Photography 1090,Photography,Chennai,Traditional,97617,87855,107378,4.3,225,,Chennai,Unverified,False,False
+1091,Alappuzha Minimalist Photography 1091,Photography,Alappuzha,Minimalist,47860,43074,52646,4.8,74,,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+1092,Malappuram Traditional Catering 1092,Catering,Malappuram,Traditional,84936,76442,93429,4.3,257,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+1093,Kollam Modern Catering 1093,Catering,Kollam,Modern,39780,35802,43758,4.5,66,,Kollam,Unverified,False,False
+1094,Palakkad Luxury Makeup 1094,Makeup,Palakkad,Luxury,36067,32460,39673,4.2,240,,"Palakkad, Coimbatore",Unverified,False,False
+1095,Thrissur Modern Decoration 1095,Decoration,Thrissur,Modern,126953,114257,139648,3.5,270,,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+1096,Hyderabad Luxury Venue 1096,Venue,Hyderabad,Luxury,206907,186216,227597,3.6,308,677.0,Hyderabad,Unverified,False,False
+1097,Alappuzha Minimalist Venue 1097,Venue,Alappuzha,Minimalist,210948,189853,232042,3.8,341,1331.0,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+1098,Kochi Modern Makeup 1098,Makeup,Kochi,Modern,39300,35370,43230,3.0,285,,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+1099,Thrissur Luxury Photography 1099,Photography,Thrissur,Luxury,56692,51022,62361,3.5,416,,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+1100,Kochi Minimalist Music 1100,Music,Kochi,Minimalist,46472,41824,51119,3.8,385,,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+1101,Pathanamthitta Minimalist Photography 1101,Photography,Pathanamthitta,Minimalist,115885,104296,127473,3.5,385,,Pathanamthitta,Unverified,False,False
+1102,Thrissur Modern Makeup 1102,Makeup,Thrissur,Modern,8936,8042,9829,3.6,3,,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+1103,Pathanamthitta Luxury Photography 1103,Photography,Pathanamthitta,Luxury,91832,82648,101015,4.9,12,,Pathanamthitta,Unverified,False,False
+1104,Kottayam Minimalist Music 1104,Music,Kottayam,Minimalist,39054,35148,42959,3.2,95,,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+1105,Munnar Traditional Venue 1105,Venue,Munnar,Traditional,189505,170554,208455,3.3,225,466.0,Munnar,Unverified,False,False
+1106,Kottayam Modern Music 1106,Music,Kottayam,Modern,41967,37770,46163,3.5,334,,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+1107,Kasaragod Minimalist Catering 1107,Catering,Kasaragod,Minimalist,57440,51696,63184,4.5,222,,Kasaragod,Unverified,False,False
+1108,Coimbatore Traditional Decoration 1108,Decoration,Coimbatore,Traditional,27349,24614,30083,3.7,164,,"Coimbatore, Palakkad",Unverified,False,False
+1109,Kozhikode Modern Venue 1109,Venue,Kozhikode,Modern,153777,138399,169154,4.2,287,65.0,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+1110,Alappuzha Modern Catering 1110,Catering,Alappuzha,Modern,136124,122511,149736,3.1,209,,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+1111,Hyderabad Luxury Catering 1111,Catering,Hyderabad,Luxury,19743,17768,21717,4.2,461,,Hyderabad,Unverified,False,False
+1112,Alappuzha Traditional Music 1112,Music,Alappuzha,Traditional,18521,16668,20373,3.5,180,,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+1113,Kochi Modern Makeup 1113,Makeup,Kochi,Modern,18791,16911,20670,3.3,249,,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+1114,Kasaragod Traditional Music 1114,Music,Kasaragod,Traditional,20450,18405,22495,3.3,260,,Kasaragod,Unverified,False,False
+1115,Kottayam Minimalist Catering 1115,Catering,Kottayam,Minimalist,156302,140671,171932,3.6,447,,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+1116,Bengaluru Minimalist Catering 1116,Catering,Bengaluru,Minimalist,59477,53529,65424,4.3,318,,Bengaluru,Unverified,False,False
+1117,Palakkad Modern Venue 1117,Venue,Palakkad,Modern,209483,188534,230431,3.0,491,250.0,"Palakkad, Coimbatore",Unverified,False,False
+1118,Kottayam Modern Catering 1118,Catering,Kottayam,Modern,89718,80746,98689,4.6,120,,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+1119,Kannur Modern Catering 1119,Catering,Kannur,Modern,172105,154894,189315,4.6,107,,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+1120,Thiruvananthapuram Modern Music 1120,Music,Thiruvananthapuram,Modern,9867,8880,10853,5.0,128,,Thiruvananthapuram,Unverified,False,False
+1121,Hyderabad Traditional Catering 1121,Catering,Hyderabad,Traditional,168056,151250,184861,4.5,11,,Hyderabad,Unverified,False,False
+1122,Alappuzha Luxury Venue 1122,Venue,Alappuzha,Luxury,60256,54230,66281,4.9,17,1443.0,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+1123,Pune Traditional Catering 1123,Catering,Pune,Traditional,162075,145867,178282,3.7,413,,Pune,Unverified,False,False
+1124,Alappuzha Modern Music 1124,Music,Alappuzha,Modern,15722,14149,17294,4.7,5,,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+1125,Mumbai Modern Catering 1125,Catering,Mumbai,Modern,32104,28893,35314,4.9,352,,Mumbai,Unverified,False,False
+1126,Pune Modern Music 1126,Music,Pune,Modern,8880,7992,9768,3.6,257,,Pune,Unverified,False,False
+1127,Kochi Modern Catering 1127,Catering,Kochi,Modern,47700,42930,52470,3.3,385,,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+1128,Hyderabad Minimalist Decoration 1128,Decoration,Hyderabad,Minimalist,10375,9337,11412,3.5,270,,Hyderabad,Unverified,False,False
+1129,Delhi Minimalist Photography 1129,Photography,Delhi,Minimalist,80037,72033,88040,4.8,408,,Delhi,Unverified,False,False
+1130,Kolkata Modern Decoration 1130,Decoration,Kolkata,Modern,102312,92080,112543,3.2,413,,Kolkata,Unverified,False,False
+1131,Hyderabad Minimalist Catering 1131,Catering,Hyderabad,Minimalist,78255,70429,86080,4.5,135,,Hyderabad,Unverified,False,False
+1132,Thiruvananthapuram Modern Venue 1132,Venue,Thiruvananthapuram,Modern,82030,73827,90233,4.7,199,1452.0,Thiruvananthapuram,Unverified,False,False
+1133,Thekkady Luxury Makeup 1133,Makeup,Thekkady,Luxury,20114,18102,22125,4.5,265,,Thekkady,Unverified,False,False
+1134,Kochi Traditional Venue 1134,Venue,Kochi,Traditional,207412,186670,228153,4.8,472,1211.0,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+1135,Kannur Traditional Makeup 1135,Makeup,Kannur,Traditional,5874,5286,6461,3.4,342,,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+1136,Kollam Traditional Decoration 1136,Decoration,Kollam,Traditional,21261,19134,23387,3.3,339,,Kollam,Unverified,False,False
+1137,Delhi Luxury Decoration 1137,Decoration,Delhi,Luxury,88292,79462,97121,4.1,375,,Delhi,Unverified,False,False
+1138,Wayanad Modern Catering 1138,Catering,Wayanad,Modern,66559,59903,73214,4.3,450,,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+1139,Mysuru Modern Makeup 1139,Makeup,Mysuru,Modern,4357,3921,4792,4.7,79,,Mysuru,Unverified,False,False
+1140,Mysuru Modern Catering 1140,Catering,Mysuru,Modern,125747,113172,138321,4.3,427,,Mysuru,Unverified,False,False
+1141,Delhi Modern Catering 1141,Catering,Delhi,Modern,61029,54926,67131,4.0,364,,Delhi,Unverified,False,False
+1142,Pune Traditional Decoration 1142,Decoration,Pune,Traditional,94027,84624,103429,3.1,163,,Pune,Unverified,False,False
+1143,Kochi Luxury Catering 1143,Catering,Kochi,Luxury,95496,85946,105045,3.3,270,,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+1144,Thrissur Modern Music 1144,Music,Thrissur,Modern,51958,46762,57153,3.6,414,,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+1145,Thrissur Minimalist Decoration 1145,Decoration,Thrissur,Minimalist,66673,60005,73340,3.8,80,,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+1146,Kolkata Minimalist Catering 1146,Catering,Kolkata,Minimalist,186548,167893,205202,3.1,119,,Kolkata,Unverified,False,False
+1147,Kochi Traditional Makeup 1147,Makeup,Kochi,Traditional,32884,29595,36172,4.1,57,,"Kochi, Thrissur, Kottayam, Alappuzha",Unverified,False,False
+1148,Delhi Luxury Venue 1148,Venue,Delhi,Luxury,29899,26909,32888,4.4,165,456.0,Delhi,Unverified,False,False
+1149,Thrissur Luxury Music 1149,Music,Thrissur,Luxury,11862,10675,13048,4.1,85,,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+1150,Thrissur Luxury Music 1150,Music,Thrissur,Luxury,45186,40667,49704,4.8,187,,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+1151,Delhi Luxury Photography 1151,Photography,Delhi,Luxury,36953,33257,40648,4.4,155,,Delhi,Unverified,False,False
+1152,Wayanad Traditional Decoration 1152,Decoration,Wayanad,Traditional,84007,75606,92407,3.8,164,,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+1153,Kollam Luxury Music 1153,Music,Kollam,Luxury,34099,30689,37508,3.6,375,,Kollam,Unverified,False,False
+1154,Kolkata Traditional Photography 1154,Photography,Kolkata,Traditional,22984,20685,25282,3.3,452,,Kolkata,Unverified,False,False
+1155,Wayanad Modern Photography 1155,Photography,Wayanad,Modern,116573,104915,128230,4.6,38,,"Wayanad, Kozhikode, Malappuram, Kannur",Unverified,False,False
+1156,Kollam Minimalist Catering 1156,Catering,Kollam,Minimalist,36121,32508,39733,4.9,292,,Kollam,Unverified,False,False
+1157,Thrissur Modern Makeup 1157,Makeup,Thrissur,Modern,7200,6480,7920,3.1,368,,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+1158,Munnar Luxury Decoration 1158,Decoration,Munnar,Luxury,148142,133327,162956,3.5,106,,Munnar,Unverified,False,False
+1159,Kozhikode Modern Music 1159,Music,Kozhikode,Modern,48952,44056,53847,3.9,378,,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+1160,Kannur Modern Venue 1160,Venue,Kannur,Modern,46392,41752,51031,3.0,64,1045.0,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+1161,Chennai Traditional Decoration 1161,Decoration,Chennai,Traditional,49312,44380,54243,4.8,420,,Chennai,Unverified,False,False
+1162,Delhi Luxury Music 1162,Music,Delhi,Luxury,19996,17996,21995,3.7,486,,Delhi,Unverified,False,False
+1163,Bengaluru Modern Venue 1163,Venue,Bengaluru,Modern,20748,18673,22822,4.2,336,455.0,Bengaluru,Unverified,False,False
+1164,Munnar Traditional Makeup 1164,Makeup,Munnar,Traditional,25297,22767,27826,4.3,106,,Munnar,Unverified,False,False
+1165,Pathanamthitta Minimalist Music 1165,Music,Pathanamthitta,Minimalist,22086,19877,24294,4.8,201,,Pathanamthitta,Unverified,False,False
+1166,Delhi Luxury Catering 1166,Catering,Delhi,Luxury,62323,56090,68555,3.2,217,,Delhi,Unverified,False,False
+1167,Coimbatore Traditional Photography 1167,Photography,Coimbatore,Traditional,91645,82480,100809,4.6,96,,"Coimbatore, Palakkad",Unverified,False,False
+1168,Mysuru Luxury Catering 1168,Catering,Mysuru,Luxury,191378,172240,210515,4.9,39,,Mysuru,Unverified,False,False
+1169,Mumbai Luxury Music 1169,Music,Mumbai,Luxury,8018,7216,8819,4.3,420,,Mumbai,Unverified,False,False
+1170,Mumbai Traditional Venue 1170,Venue,Mumbai,Traditional,104195,93775,114614,3.3,88,1423.0,Mumbai,Unverified,False,False
+1171,Thiruvananthapuram Traditional Catering 1171,Catering,Thiruvananthapuram,Traditional,142956,128660,157251,4.0,40,,Thiruvananthapuram,Unverified,False,False
+1172,Hyderabad Traditional Catering 1172,Catering,Hyderabad,Traditional,172091,154881,189300,4.7,230,,Hyderabad,Unverified,False,False
+1173,Malappuram Minimalist Decoration 1173,Decoration,Malappuram,Minimalist,29299,26369,32228,3.5,303,,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+1174,Coimbatore Modern Makeup 1174,Makeup,Coimbatore,Modern,26019,23417,28620,3.1,199,,"Coimbatore, Palakkad",Unverified,False,False
+1175,Kollam Traditional Photography 1175,Photography,Kollam,Traditional,43433,39089,47776,4.1,322,,Kollam,Unverified,False,False
+1176,Pathanamthitta Minimalist Makeup 1176,Makeup,Pathanamthitta,Minimalist,7507,6756,8257,4.7,140,,Pathanamthitta,Unverified,False,False
+1177,Coimbatore Traditional Makeup 1177,Makeup,Coimbatore,Traditional,27055,24349,29760,3.1,419,,"Coimbatore, Palakkad",Unverified,False,False
+1178,Thekkady Traditional Music 1178,Music,Thekkady,Traditional,19212,17290,21133,3.7,144,,Thekkady,Unverified,False,False
+1179,Chennai Traditional Photography 1179,Photography,Chennai,Traditional,42794,38514,47073,3.6,372,,Chennai,Unverified,False,False
+1180,Munnar Minimalist Venue 1180,Venue,Munnar,Minimalist,169944,152949,186938,4.0,119,827.0,Munnar,Unverified,False,False
+1181,Alappuzha Luxury Catering 1181,Catering,Alappuzha,Luxury,143367,129030,157703,4.4,470,,"Alappuzha, Kochi, Thrissur, Kottayam",Unverified,False,False
+1182,Delhi Modern Makeup 1182,Makeup,Delhi,Modern,38176,34358,41993,4.9,85,,Delhi,Unverified,False,False
+1183,Palakkad Minimalist Music 1183,Music,Palakkad,Minimalist,12414,11172,13655,4.0,447,,"Palakkad, Coimbatore",Unverified,False,False
+1184,Kannur Modern Photography 1184,Photography,Kannur,Modern,48862,43975,53748,3.2,55,,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+1185,Thiruvananthapuram Modern Venue 1185,Venue,Thiruvananthapuram,Modern,202306,182075,222536,4.3,170,1213.0,Thiruvananthapuram,Unverified,False,False
+1186,Malappuram Modern Venue 1186,Venue,Malappuram,Modern,23444,21099,25788,4.9,357,333.0,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+1187,Mumbai Traditional Venue 1187,Venue,Mumbai,Traditional,25283,22754,27811,4.4,431,59.0,Mumbai,Unverified,False,False
+1188,Kollam Luxury Music 1188,Music,Kollam,Luxury,50246,45221,55270,3.8,493,,Kollam,Unverified,False,False
+1189,Kottayam Luxury Decoration 1189,Decoration,Kottayam,Luxury,126581,113922,139239,3.6,341,,"Kottayam, Kochi, Thrissur, Alappuzha",Unverified,False,False
+1190,Kozhikode Minimalist Venue 1190,Venue,Kozhikode,Minimalist,70539,63485,77592,3.2,258,1026.0,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+1191,Kollam Luxury Makeup 1191,Makeup,Kollam,Luxury,16295,14665,17924,3.1,34,,Kollam,Unverified,False,False
+1192,Kozhikode Modern Decoration 1192,Decoration,Kozhikode,Modern,61055,54949,67160,3.6,433,,"Kozhikode, Malappuram, Kannur, Wayanad",Unverified,False,False
+1193,Thrissur Luxury Decoration 1193,Decoration,Thrissur,Luxury,94918,85426,104409,4.4,326,,"Thrissur, Kochi, Kottayam, Alappuzha",Unverified,False,False
+1194,Bengaluru Luxury Venue 1194,Venue,Bengaluru,Luxury,195910,176319,215501,4.2,326,897.0,Bengaluru,Unverified,False,False
+1195,Malappuram Luxury Venue 1195,Venue,Malappuram,Luxury,60857,54771,66942,4.5,318,459.0,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+1196,Thiruvananthapuram Minimalist Makeup 1196,Makeup,Thiruvananthapuram,Minimalist,37992,34192,41791,3.1,264,,Thiruvananthapuram,Unverified,False,False
+1197,Malappuram Minimalist Venue 1197,Venue,Malappuram,Minimalist,206895,186205,227584,4.6,267,77.0,"Malappuram, Kozhikode, Kannur, Wayanad",Unverified,False,False
+1198,Kannur Luxury Catering 1198,Catering,Kannur,Luxury,145526,130973,160078,4.0,376,,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+1199,Kannur Modern Decoration 1199,Decoration,Kannur,Modern,137648,123883,151412,4.8,110,,"Kannur, Kozhikode, Malappuram, Wayanad",Unverified,False,False
+1200,Thiruvananthapuram Traditional Makeup 1200,Makeup,Thiruvananthapuram,Traditional,19863,17876,21849,3.7,216,,Thiruvananthapuram,Unverified,False,False
